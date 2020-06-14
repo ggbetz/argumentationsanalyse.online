@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Über den Autor
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Über den Autor
   order: 3
 ---
 
-I am a person that writes stuff.
+Gregor Betz ist Professor für Wissenschaftstheorie am KIT (Karlsruher Institut für Technologie).
