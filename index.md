@@ -44,6 +44,15 @@ Das Lehrbuch zitiert aus der von Michael Schefcyk und Christoph Schmidt-Petri he
 
 ## Weiterführende Lektürehinweise ("Handapparat Argumentationsanalyse")
 
+::: maxime
+
+Erste Anlaufstelle im Web für alldiejenigen, die Fragen zum Argumentieren haben oder auf der Suche nach Beispielen, Übungen und Lernmaterial rund um das Thema "Kritisches Denken" sind, ist das von Joe Lau (U Hong Kong) betriebene
+
+**[Critical Thinking Web](https://philosophy.hku.hk/think/)**! 
+
+:::
+
+
 Empfehlenswerte Einführungen in die argumentative Textanalyse und die logische Rekonstruktion von Argumenten, die das Lehrbuch "Argumentationsanalyse" trefflich ergänzen: 
 
 * **Bowell**, T. & **Kemp**, G. 2014, *Critical Thinking: A Concise Guide*, Routledge, London. [[bei genialokal]](https://www.genialokal.de/Produkt/Tracy-Bowell-Gary-Kemp-Robert-Cowan/Critical-Thinking_lid_41149758.html) 

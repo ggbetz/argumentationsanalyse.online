@@ -155,13 +155,14 @@ pre {
 .postlist-item:before {
   display: inline-block;
   pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
+  content: "" /* counter(start-from, decimal-leading-zero) ". "*/;
   line-height: 100%;
   text-align: right;
 }
+.postlist-number,
 .postlist-date,
 .postlist-item:before {
-  font-size: 0.8125em; /* 13px /16 */
+  font-size: 0.9125em; /* 13px /16 */
   color: var(--darkgray);
 }
 .postlist-date {
