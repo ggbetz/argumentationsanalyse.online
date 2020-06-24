@@ -8,7 +8,7 @@ templateClass: tmpl-post
 
 Nehmen wir an: Sie haben ein Argument oder eine komplexe Argumentation analysiert und stehen nun vor der Aufgabe, einen Text (einen Essay, einen Bericht, eine Hausarbeit, eine Stellungnahme) auf Grundlage Ihrer Rekonstruktion zu schreiben. Wie macht man das?
 
-Die folgenden Maximen geben Ihnen dazu Hinweise und machen Vorschläge. Wenn Sie wenig Schreiberfahrung haben, können Sie die Maximen als Kochrezept verwenden und Schritt für Schritt einen Text verfassen. (Als ergänzende und vertiefende Lektüre empfehle ich: Jay Rosenberg, 2009, *Philosophieren. Ein Handbuch für Anfänger*, Klostermann, Frankfurt a.M. [[bei genialokal]](https://www.genialokal.de/Produkt/Jay-F-Rosenberg/Philosophieren_lid_8165246.html))
+Die folgenden Maximen geben Ihnen dazu erste Hinweise. Wenn Sie wenig Schreiberfahrung haben, können Sie die Maximen als Kochrezept verwenden, um Schritt für Schritt einen Text zu komponieren. (Als ergänzende und vertiefende Lektüre empfehle ich: Jay Rosenberg, 2009, *Philosophieren. Ein Handbuch für Anfänger*, Klostermann, Frankfurt a.M. [[bei genialokal]](https://www.genialokal.de/Produkt/Jay-F-Rosenberg/Philosophieren_lid_8165246.html))
 
 ::: maxime
 **Maxime 1:** Sichten, sortieren und ergänzen Sie das Material (Analyseergebnisse und Notizen), auf dem Sie beim Schreiben aufbauen.
@@ -53,13 +53,13 @@ Von welcher Art können solche argumentationstheoretische Diagnosen sein? Aufgru
 * dass ein Argument einen Fehlschluss begeht; und dass dieser Fehlschluss sich nur auf Kosten der Inkaufnahme höchst unplausibler Zusatzprämissen umgehen lässt;
 * dass eine Begründung im vorliegenden Kontext starker Kritik ausgesetzt ist, die von Proponenten der Begründung nicht erwidert wird; 
 * dass eine Begründung an einer impliziten Prämisse hängt, die in der entsprechenden Debatte gar nicht gesehen und erörtert wird; 
-* dass eine These von einem Gegenargument getroffen wird; eine nur geringfügig und unerheblich modifizierte These aber dem Einwand entgeht; 
+* dass eine These von einem Gegenargument getroffen wird; eine nur geringfügig und unwesentlich modifizierte These aber dem Einwand entgeht; 
 * dass eine von zwei Alternativrekonstruktionen die wohlwollendere und 
 bessere Interpretation als die andere darstellt. 
 
 
 ::: maxime
-**Maxime 5:** Die Struktur des Essays ergibt sich aus seiner Zielsetzung.
+**Maxime 5:** Die Struktur des Textes ergibt sich aus seiner Zielsetzung.
 :::
 
 Das Ziel, das Sie mit Ihrem Text verfolgen, legt bereits zu großen Teilen einen bestimmten Aufbau Ihres Textes nahe. Nehmen Sie an, sie wollten ein Argument kritisieren und nachweisen, dass es seine Konklusion nicht stichhaltig begründet. Um dies zu tun, sollten Sie natürlich *erstens* das Argument darstellen und *zweitens* die Kritik an dem Argument vortragen, bevor Sie *drittens* Ihren Schluss ziehen und die Überlegung zusammenfassen. Stellen Sie diesen drei Schritten noch eine obligatorische Einleitung vorweg, besitzen Sie bereits die (oder: eine mögliche) Gliederung Ihres Texts! 
@@ -146,4 +146,7 @@ Einen Abschnitt, der zwei zuvor vorgestellte Alternativrekonstruktionen vergleic
    3. Identifikation von Prämissen, die nur in der zweiten Rekonstruktion benötigt werden (Fließtext) 
    4. Diskussion dieser Prämissen (Fließtext) 
 
+::: maxime
+**Maxime 8:** Die Detailgliederung ist ein Fahrplan, an dem Sie sich beim Verfassen des Textes nun orientieren können. Häufig gewinnt man beim Schreiben neue Einsichten. Überdenken Sie dann die Rekonstruktion sowie die Detailgliederung und passen Sie diese fortlaufend an.
+::: 
 

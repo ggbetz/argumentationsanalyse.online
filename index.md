@@ -17,16 +17,11 @@ In dem Buch "Argumentationsanalyse" (G. Betz, Metzler 2020, [Link]) lernen Sie, 
 
 **argumentationsanalyse.online** soll Sie dabei unterstützen, aktiv mit dem Buch zu arbeiten und sich selbst an der Rekonstruktion von Argumenten zu versuchen. Hier finden Sie:
 
-* <a href="{{ '/posts/' | url }}">Grafische Darstellungen der rekonstruierten Argumente ("Tafeln")</a>
 * [Verweise auf die in den Fallstudien rekonstruierten Texte](#texte%2C-die-in-den-fallstudien-rekonstruiert-werden)
+* [Grafische Darstellungen der rekonstruierten Argumente](#grafische-darstellungen-der-rekonstruierten-argumente-(%22tafeln%22))
 * [Weiterführende Lektürehinweise ("Handapparat Argumentationsanalyse")](#weiterf%C3%BChrende-lekt%C3%BCrehinweise-(%22handapparat-argumentationsanalyse%22))
 * [Notizen zur Argdown-Syntax](#notizen-und-verweise-zur-argdown-syntax)
 * [Hinweise für die Verwendung von Argumentationsanalyse](#hinweise-f%C3%BCr-die-verwendung-von-argumentationsanalyse)
-
-
-## Grafische Darstellungen der rekonstruierten Argumente ("Tafeln")
-
-TODO: Hier einen Abschnitt mit drei Argumentkarten aus den drei Kapiteln ...
 
 
 ## Texte, die in den Fallstudien rekonstruiert werden
@@ -47,9 +42,108 @@ Das Lehrbuch zitiert aus der von Michael Schefcyk und Christoph Schmidt-Petri he
 * [BVerfG, Beschluss des Ersten Senats vom 15. Januar 1958 - 1 BvR 400/51 -, Rn. 1-75](http://www.bverfg.de/e/rs19580115_1bvr040051.html)
 
 
+
+## Grafische Darstellungen der rekonstruierten Argumente
+
+Eine komplexe Argumentation, in der sich verschiedene Argumente stützend und angreifend aufeinander beziehen, lässt sich übersichtlich als sogenannte *Argumentkarte* darstellen. Ergänzend zum Buch finden Sie auf dieser Seite nicht nur alle **"Tafeln"** mit Argumentrekonstruktionen, sondern auch die entsprechenden grafischen Darstellungen (s. <a href="{{ '/posts/' | url }}">Verzeichnis der Rekonstruktionstafeln</a>). 
+
+So zeigt etwa die folgende Argumentkarte, die auf den Tafeln <a href="{{ 'posts/tafel_01-11/' | url }}">1.11</a>, <a href="{{ 'posts/tafel_01-13/' | url }}">1.13</a> sowie <a href="{{ 'posts/tafel_01-16/' | url }}">1.16</a> beruht, wie sich die Zusammenspiel der Pro- / Kontra-Gründe aus dem Debater's Handbook nach einer vorläufigen & informellen Analyse darstellt:
+
+```argdown-map
+[Zensurgebot]: Es gibt Fälle, in denen Gesetzgebung, die bestimmte
+Formen der Meinungsäußerung und -wiedergabe untersagt und 
+sanktioniert, geboten ist. #pro
+  <+ <Kriminalisierung>: Bestimmte Literaturformen oder visuelle 
+      Darstellungen sind auf überzeugende Weise mit Kriminalität in 
+      Verbindung gebracht worden. #pro {quelle: Pro2}
+      <- <Kritik an Studien>: Tatsächlich ist der Zusammenhang zwischen 
+        Sex und Gewalt auf der Mattscheibe und im echten Leben alles 
+        andere als klar. #con {quelle: Con2}
+  <+ <Jugendschutz>: Wir akzeptieren auch staatliche Zensur im Kontext der 
+    Altersfreigaben für Filme, Videos und einige Computerspiele, so dass Kinder 
+    unterhalb eines bestimmten Alters nicht unangemessenen Sex- und 
+    Gewaltszenen ausgesetzt sind. Wir sollten den Staat, als unseren 
+    moralischen Wächter, mit der Regulierung derartigen Materials – sowie 
+    weiterer im Internet verfügbarer Inhalte – betrauen, um einen 
+    konsistenten Schutz all unserer Kinder zu gewährleisten. #pro {quelle: Pro3}
+  <+ <Schutz vor Kinder- und Hardcore-Pornografie>: Staatliche
+    Zensur ist im Kontext von Kinder- und Hardcore-Pornografie
+    erforderlich. Kinder sowie junge Frauen und Männer müssen vor
+    der Ausbeutung durch Pornografen geschützt werden. Und die
+    Gesellschaft als Ganzes sollte vor den schäbigen, ungesunden,
+    unterdrückerischen und objektifizierenden Einstellungen zu
+    Frauen und Sex geschützt werden, die von der Pornographie
+    aufrechterhalten werden. #pro {quelle: Pro4}
+    <- <Zensur unwirksam>: Nochmals: Leute werden Pornographie in 
+      die Hände bekommen, sodenn sie es wollen. Zensur wird die 
+      Anzahl derer, die Pornographie nutzen, nicht verändern. #con 
+      {quelle: Con4}
+      -> <Jugendschutz>
+    <- <Erziehung effektiver>: Selbst wenn staatliche Zensur nicht
+      gänzlich wirkungslos sein sollte, so gibt es doch einen viel
+      effektiveren Schutz der (potentiellen) Rezipienten von
+      Pornographie: Erziehung durch Eltern und Gemeinschaft. #con
+      {quelle: Con4}
+      -> <Jugendschutz>
+      <+ <Immunisierung durch Erziehung>: Letztendlich werden
+        pornographische Bilder und Filme keinen wirklich schädlichen
+        Einfluss auf einen ausgeglichenen Geist haben, sondern nur
+        auf diejenigen, die ohnehin aus anderen Gründen 
+        unausgeglichen sind. Die Eltern und die Gemeinschaft können
+        Kinder aber so erziehen, dass sie gesunde Einstellungen
+        haben und so vor Pornographie geschützt sind. #con {quelle: Con4}
+    <- <Kinderpornographie ohnehin illegal>: Bezüglich der
+      schädlichen Auswirkungen der Produktion von Pornografie gilt:
+      Der Verweis auf Kinderpornographie führt hier in die Irre – 
+      denn Kinderpornografie ist bereits gesetzlich untersagt und
+      wir benötigen keine weiteren Zensurgesetze, um sie zu 
+      bekämpfen. #con {quelle: Con4} 
+```
+
+Die Makrostruktur der Entscheidungsbegründung im Urteil des Bundesverfassungsgerichts visualisiert die folgende Karte (vgl. insbes. Tafel <a href="{{ 'posts/tafel_03-33/' | url }}">3.33</a>):
+
+```argdown-map
+[Aufhebung und Zurückweisung]
+  /* Entscheidungsbegründung aus B.II.1.,   */
+  /* teils im weiteren Verlauf entfaltet    */
+  <+ <Zentrale Entscheidungsbegründung>
+    <+ <Sinn der Bindung der Rechtsprechung an Grundrechte>
+                                                 /* +>(GS3) */
+      <+ [Bindung an Grundrechte (Art. 1, Abs. 3 GG)]
+      <+ [Grundrechte als objektive Wertordnung] /* (GS1)   */
+    <+ <Besonders starke Grundrechte-Einwirkung>
+      <+ <Verwandtschaft bürgerliches und öffentliches Recht>
+                                                 /* <+(GS2) */
+      <+ <Generalklauseln als Einbruchstellen>   /* <+(GS2) */
+      <+ [Bedeutung Meinungsfreiheit]
+  /* Einwand aus B.II.2. und Entkräftung */
+    <- <Keine Wirkung außerhalb der Schranken>
+      <- <Keine folgerichtige Interpretation des Verfassungssystems>
+        <+  [Bedeutung Meinungsfreiheit]
+  /* Einwand aus B.II.3. und Entkräftung */
+    <- <Intendierte Wirkung nicht durch Grundrecht geschützt>
+      <+ [Enge Auslegung Meinungsfreiheit]
+        <- <Schutz der kollektiven Meinungsbildung>  
+                                                 /* +>(GS6) */
+        <- <Wirkung wesentlich für Werturteile>  /* +>(GS6) */
+        <- <Bedeutung der allgemeinen Gesetze>   /* +>(GS6) */
+  /* Einwände aus B.II.4. und Entkräftung */
+    <+ [Allgemeine Gesetze im LGUrteil]
+      +> [Allgemeine Gesetze privatrechtlicher Art]   
+                                                 /* (GS4)   */
+        <- <Experten-Argument>
+          <- <Falsche Voraussetzung der Literatur>
+        <+ <Symmetrie-Argument>
+        <- <Gefährdung der Diskursfreiheit>
+          <- <Sicherung Diskursfreiheit durch Drittwirkung>
+            <+ <Besonders starke Grundrechte-Einwirkung>
+```
+
+
+
 ## Weiterführende Lektürehinweise ("Handapparat Argumentationsanalyse")
 
-::: maxime
+::: info
 
 Erste Anlaufstelle im Web für alldiejenigen, die Fragen zum Argumentieren haben oder auf der Suche nach Beispielen, Übungen und Lernmaterial rund um das Thema "Kritisches Denken" sind, ist das von Joe Lau (U Hong Kong) betriebene
 
@@ -104,7 +198,7 @@ Argdown unterscheidet zwischen Thesen (eckige Klammern) und Argumenten (spitze K
 // Eine These
 [Dostojewskis Diktum]: Wenn Gott nicht existiert, dann ist alles erlaubt.
 
-// Ein Argument, mit der These [Dostojewskis Diktum] als Prämisse
+// Ein Argument mit der These [Dostojewskis Diktum] als Prämisse
 <Moralischer Gottesbeweis>
 
   (1) [Dostojewskis Diktum]
@@ -119,17 +213,20 @@ Text, der mit zwei Schrägstrichen beginnt, wird als Kommentar interpretiert.
 // Kommentar, nützlich etwa für die Erläuterung einer Rekonstruktion
 ```
 
-Eine sehr ausführliche Dokumentation der Argdown-Syntax mit zahlreichen Beispielen finden Sie auf der [Argdown-Homepage](http://argdown.org).
+Eine vollständige Dokumentation der Argdown-Syntax mit zahlreichen Beispielen finden Sie auf der [Argdown-Homepage](http://argdown.org).
 
 
 ## Hinweise für die Verwendung von Argumentationsanalyse
 
-Wie können Sie eine Argumentanalyse nutzen, zum Beispiel um einen klar strukturierten Text zu verfassen? 
+Ich habe eine Argumentation rekonstruiert. Was kann ich mit der Analyse nun  anfangen? Wo ist sie nützlich? 
 
-* In dieser <a href="{{ '/anleitung/' | url }}">**Anleitung**</a> finden sie handwerkliche Vorschläge und Empfehlungen zum Verfassen argumentativer Texte. 
-* Der im folgenden präsentierte **Showcase Climate Engineering** führt hingegen exemplarisch vor, wie sich Resultate von Argumentationsanalysen vielfältig und gewinnbringend verwenden lassen. 
+* In dieser <a href="{{ '/anleitung/' | url }}">**Anleitung**</a> finden Sie erste handwerkliche Vorschläge und Empfehlungen zum Verfassen argumentativer Texte. 
+* Der **Showcase Climate Engineering** führt exemplarisch vor, wie sich Resultate von Argumentationsanalysen vielfältig und gewinnbringend verwenden lassen. 
 
-In der Climate Engineering Debatte streiten Aktivist:innen, Politiker:innen und Wissenschaftler:innen im Kern um folgende Frage: Ist zulässig, mit großtechnischen Eingriffe in das Klimasystem die menschengemachte Erderwärmung zu kompensieren? Betz und Cacean haben diese Debatte im Rahmen verschiedener Forschungsprojekte seit 2009 analysiert. Die Gesamtstruktur der Rekonstruktion ist als *großformatiges Poster* veröffentlicht; der Forschungsbericht ["Ethical Aspects of Climate Engineering"](http://dx.doi.org/10.5445/KSP/1000028245) zeigt exemplarisch, wie man *Argumentanalysen in Texten* präsentieren, diskutieren und auswerten kann. Hier kommen u.a. folgende Techniken zum Einsatz: Hochggregierte Makrokarte der Gesamtdebatte; feinauflösende Mikrokarten von Teildebatten; argumentative Textstrukturierung; Klassifikation von Argumenten; Darstellung und Analyse exemplarischer Positionen. Die Argumentanalyse liegt auch im interdisziplinären ["Scoping Report Climate Engineering"](https://www.kiel-earth-institute.de/scoping-report-climate-engineering.html) zugrunde; dabei bildet die Argumentkarte den gemeinsamen Bezugspunkt der ganz verschiedenen fachlichen Kapitel. Teile der Analyse sind ferner in [Videos](https://www.youtube.com/watch?v=1ETYgACfK6Y) und [interaktiven Webtools](https://www.iass-potsdam.de/modules/custom/iass_eutrace_apps/resources/ArgunetBrowser/) veröffentlicht worden.
+::: info
+
+In der **Climate Engineering Debatte** streiten Aktivist:innen, Politiker:innen und Wissenschaftler:innen im Kern um folgende Frage: Ist es zulässig, mit großtechnischen Eingriffe in das Klimasystem die menschengemachte Erderwärmung zu kompensieren? Betz und Cacean haben diese Debatte im Rahmen verschiedener Forschungsprojekte seit 2009 analysiert. Die Gesamtstruktur der Rekonstruktion ist als *großformatiges Poster* veröffentlicht; der Forschungsbericht ["Ethical Aspects of Climate Engineering"](http://dx.doi.org/10.5445/KSP/1000028245) zeigt exemplarisch, wie man *Argumentanalysen in Texten* präsentieren, diskutieren und auswerten kann. Hier kommen u.a. folgende Techniken zum Einsatz: Hochggregierte Makrokarte der Gesamtdebatte; feinauflösende Mikrokarten von Teildebatten; argumentative Textstrukturierung; Klassifikation von Argumenten; Darstellung und Analyse exemplarischer Positionen. Die Argumentanalyse liegt auch im interdisziplinären ["Scoping Report Climate Engineering"](https://www.kiel-earth-institute.de/scoping-report-climate-engineering.html) zugrunde; dabei bildet die Argumentkarte den gemeinsamen Bezugspunkt der ganz verschiedenen fachlichen Kapitel. Teile der Analyse sind ferner in [Videos](https://www.youtube.com/watch?v=1ETYgACfK6Y) und [interaktiven Webtools](https://www.iass-potsdam.de/modules/custom/iass_eutrace_apps/resources/ArgunetBrowser/) veröffentlicht worden.
 
 Eine ausführlichere Präsentation des Showcases findet sich im Blog-Eintrag [Mapping the Climate Engineering Controversy](http://www.argunet.org/2013/05/13/mapping-the-climate-engineering-controversy-a-case-of-argument-analysis-driven-policy-advice/).
 
+:::

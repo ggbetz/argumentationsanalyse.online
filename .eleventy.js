@@ -54,6 +54,7 @@ module.exports = function(eleventyConfig) {
       permalinkSymbol: "#"
     }) 
     .use(markdownItContainer, "maxime")
+    .use(markdownItContainer, "info")
     .use(markdownItArgdown);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
