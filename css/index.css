@@ -208,7 +208,9 @@ pre {
 .postlist-item .postlist-number{
   width: 5rem;
   display:block;
-  padding: 0.5rem 0.1875rem;
+  padding: 0.5rem 0;
+  color: var(--darkblue);
+  font-weight: bold;
 }
 .postlist-item:before {
   display: inline-block;
@@ -228,14 +230,14 @@ pre {
 }
 .postlist-link {
   display: inline-block;
-  padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  padding: 0.25em 0; /* 4px 3px /16 */
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
 }
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
-  font-weight: 700;
+  font-weight: normal;
   text-decoration:none;
 }
 
