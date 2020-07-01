@@ -7,6 +7,8 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --darkblue: #00ADEE;
+  --lightblue: #B1DEF7;
 }
 * {
   box-sizing: border-box;
@@ -18,6 +20,22 @@ body {
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
+}
+blockquote{
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+blockquote p{
+  font-style: italic;
+}
+blockquote p:last-child{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+h1,h2,h3{
+  color: var(--darkblue);
+  font-weight: bold;
 }
 p:last-child {
   margin-bottom: 0;
@@ -39,18 +57,20 @@ a[href]:visited {
 }
 main {
   padding: 1rem;
+  margin: 0 auto;
+  max-width: 42rem;
 }
 main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  /* border-bottom: 1px dashed var(--lightgray); */
+  display:flex;
+  flex-wrap: wrap;
+  position:relative;
+  background-color: var(--lightblue);
 }
-header:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 table {
   margin: 1em 0;
 }
@@ -116,10 +136,22 @@ pre {
 
 /* Header */
 .home {
-  padding: 0 1rem;
-  float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
+  width: auto;
+  display:flex;
+  align-items:center;
+
+  padding: 0rem 1rem; /* 16px /16 */
+  margin: 0;
+  font-size: 1.4em; /* 16px /16 */
+  font-weight:bold;
+  background-color: var(--darkblue);
+  color:#fff;
+}
+.home a{
+  color: #fff;
+}
+.home a[href]{
+  color: #fff;
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -129,7 +161,8 @@ pre {
 .nav {
   padding: 0;
   list-style: none;
-  float: left;
+  flex: 1;
+  flex-direction: row;
   margin-left: 1em;
 }
 .nav-item {
@@ -201,7 +234,7 @@ a[href].tag:visited {
 
 /* Maxime */
 .maxime {
-  background-color: #ffc;
+  background-color: var(--lightblue);
   padding: 1em 0.625em; /* 16px 10px /16 */
 }
 
