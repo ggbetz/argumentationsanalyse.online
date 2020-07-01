@@ -17,11 +17,11 @@ In dem Buch "Argumentationsanalyse" (G. Betz, Metzler 2020, [Link]) lernen Sie, 
 
 **argumentationsanalyse.online** soll Sie dabei unterstützen, aktiv mit dem Buch zu arbeiten und sich selbst an der Rekonstruktion von Argumenten zu versuchen. Hier finden Sie:
 
-* <a href="{{ '/posts/' | url }}">Grafische Darstellungen der rekonstruierten Argumente ("Tafeln")</a>
 * [Verweise auf die in den Fallstudien rekonstruierten Texte](#texte%2C-die-in-den-fallstudien-rekonstruiert-werden)
+* [Grafische Darstellungen der rekonstruierten Argumente](#grafische-darstellungen-der-rekonstruierten-argumente-(%22tafeln%22))
 * [Weiterführende Lektürehinweise ("Handapparat Argumentationsanalyse")](#weiterf%C3%BChrende-lekt%C3%BCrehinweise-(%22handapparat-argumentationsanalyse%22))
 * [Notizen zur Argdown-Syntax](#notizen-und-verweise-zur-argdown-syntax)
-* [Vorschläge für die Verwendung von Argumentationsanalyse mit Beispielen](#vorschl%C3%A4ge-f%C3%BCr-die-verwendung-von-argumentationsanalyse)
+* [Hinweise für die Verwendung von Argumentationsanalyse](#hinweise-f%C3%BCr-die-verwendung-von-argumentationsanalyse)
 
 
 ## Texte, die in den Fallstudien rekonstruiert werden
@@ -42,9 +42,108 @@ Das Lehrbuch zitiert aus der von Michael Schefcyk und Christoph Schmidt-Petri he
 * [BVerfG, Beschluss des Ersten Senats vom 15. Januar 1958 - 1 BvR 400/51 -, Rn. 1-75](http://www.bverfg.de/e/rs19580115_1bvr040051.html)
 
 
+
+## Grafische Darstellungen der rekonstruierten Argumente
+
+Eine komplexe Argumentation, in der sich verschiedene Argumente stützend und angreifend aufeinander beziehen, lässt sich übersichtlich als sogenannte *Argumentkarte* darstellen. Ergänzend zum Buch finden Sie auf dieser Seite nicht nur alle **"Tafeln"** mit Argumentrekonstruktionen, sondern auch die entsprechenden grafischen Darstellungen (s. <a href="{{ '/posts/' | url }}">Verzeichnis der Rekonstruktionstafeln</a>). 
+
+So zeigt etwa die folgende Argumentkarte, die auf den Tafeln <a href="{{ 'posts/tafel_01-11/' | url }}">1.11</a>, <a href="{{ 'posts/tafel_01-13/' | url }}">1.13</a> sowie <a href="{{ 'posts/tafel_01-16/' | url }}">1.16</a> beruht, wie sich die Zusammenspiel der Pro- / Kontra-Gründe aus dem Debater's Handbook nach einer vorläufigen & informellen Analyse darstellt:
+
+```argdown-map
+[Zensurgebot]: Es gibt Fälle, in denen Gesetzgebung, die bestimmte
+Formen der Meinungsäußerung und -wiedergabe untersagt und 
+sanktioniert, geboten ist. #pro
+  <+ <Kriminalisierung>: Bestimmte Literaturformen oder visuelle 
+      Darstellungen sind auf überzeugende Weise mit Kriminalität in 
+      Verbindung gebracht worden. #pro {quelle: Pro2}
+      <- <Kritik an Studien>: Tatsächlich ist der Zusammenhang zwischen 
+        Sex und Gewalt auf der Mattscheibe und im echten Leben alles 
+        andere als klar. #con {quelle: Con2}
+  <+ <Jugendschutz>: Wir akzeptieren auch staatliche Zensur im Kontext der 
+    Altersfreigaben für Filme, Videos und einige Computerspiele, so dass Kinder 
+    unterhalb eines bestimmten Alters nicht unangemessenen Sex- und 
+    Gewaltszenen ausgesetzt sind. Wir sollten den Staat, als unseren 
+    moralischen Wächter, mit der Regulierung derartigen Materials – sowie 
+    weiterer im Internet verfügbarer Inhalte – betrauen, um einen 
+    konsistenten Schutz all unserer Kinder zu gewährleisten. #pro {quelle: Pro3}
+  <+ <Schutz vor Kinder- und Hardcore-Pornografie>: Staatliche
+    Zensur ist im Kontext von Kinder- und Hardcore-Pornografie
+    erforderlich. Kinder sowie junge Frauen und Männer müssen vor
+    der Ausbeutung durch Pornografen geschützt werden. Und die
+    Gesellschaft als Ganzes sollte vor den schäbigen, ungesunden,
+    unterdrückerischen und objektifizierenden Einstellungen zu
+    Frauen und Sex geschützt werden, die von der Pornographie
+    aufrechterhalten werden. #pro {quelle: Pro4}
+    <- <Zensur unwirksam>: Nochmals: Leute werden Pornographie in 
+      die Hände bekommen, sodenn sie es wollen. Zensur wird die 
+      Anzahl derer, die Pornographie nutzen, nicht verändern. #con 
+      {quelle: Con4}
+      -> <Jugendschutz>
+    <- <Erziehung effektiver>: Selbst wenn staatliche Zensur nicht
+      gänzlich wirkungslos sein sollte, so gibt es doch einen viel
+      effektiveren Schutz der (potentiellen) Rezipienten von
+      Pornographie: Erziehung durch Eltern und Gemeinschaft. #con
+      {quelle: Con4}
+      -> <Jugendschutz>
+      <+ <Immunisierung durch Erziehung>: Letztendlich werden
+        pornographische Bilder und Filme keinen wirklich schädlichen
+        Einfluss auf einen ausgeglichenen Geist haben, sondern nur
+        auf diejenigen, die ohnehin aus anderen Gründen 
+        unausgeglichen sind. Die Eltern und die Gemeinschaft können
+        Kinder aber so erziehen, dass sie gesunde Einstellungen
+        haben und so vor Pornographie geschützt sind. #con {quelle: Con4}
+    <- <Kinderpornographie ohnehin illegal>: Bezüglich der
+      schädlichen Auswirkungen der Produktion von Pornografie gilt:
+      Der Verweis auf Kinderpornographie führt hier in die Irre – 
+      denn Kinderpornografie ist bereits gesetzlich untersagt und
+      wir benötigen keine weiteren Zensurgesetze, um sie zu 
+      bekämpfen. #con {quelle: Con4} 
+```
+
+Die Makrostruktur der Entscheidungsbegründung im Urteil des Bundesverfassungsgerichts visualisiert die folgende Karte (vgl. insbes. Tafel <a href="{{ 'posts/tafel_03-33/' | url }}">3.33</a>):
+
+```argdown-map
+[Aufhebung und Zurückweisung]
+  /* Entscheidungsbegründung aus B.II.1.,   */
+  /* teils im weiteren Verlauf entfaltet    */
+  <+ <Zentrale Entscheidungsbegründung>
+    <+ <Sinn der Bindung der Rechtsprechung an Grundrechte>
+                                                 /* +>(GS3) */
+      <+ [Bindung an Grundrechte (Art. 1, Abs. 3 GG)]
+      <+ [Grundrechte als objektive Wertordnung] /* (GS1)   */
+    <+ <Besonders starke Grundrechte-Einwirkung>
+      <+ <Verwandtschaft bürgerliches und öffentliches Recht>
+                                                 /* <+(GS2) */
+      <+ <Generalklauseln als Einbruchstellen>   /* <+(GS2) */
+      <+ [Bedeutung Meinungsfreiheit]
+  /* Einwand aus B.II.2. und Entkräftung */
+    <- <Keine Wirkung außerhalb der Schranken>
+      <- <Keine folgerichtige Interpretation des Verfassungssystems>
+        <+  [Bedeutung Meinungsfreiheit]
+  /* Einwand aus B.II.3. und Entkräftung */
+    <- <Intendierte Wirkung nicht durch Grundrecht geschützt>
+      <+ [Enge Auslegung Meinungsfreiheit]
+        <- <Schutz der kollektiven Meinungsbildung>  
+                                                 /* +>(GS6) */
+        <- <Wirkung wesentlich für Werturteile>  /* +>(GS6) */
+        <- <Bedeutung der allgemeinen Gesetze>   /* +>(GS6) */
+  /* Einwände aus B.II.4. und Entkräftung */
+    <+ [Allgemeine Gesetze im LGUrteil]
+      +> [Allgemeine Gesetze privatrechtlicher Art]   
+                                                 /* (GS4)   */
+        <- <Experten-Argument>
+          <- <Falsche Voraussetzung der Literatur>
+        <+ <Symmetrie-Argument>
+        <- <Gefährdung der Diskursfreiheit>
+          <- <Sicherung Diskursfreiheit durch Drittwirkung>
+            <+ <Besonders starke Grundrechte-Einwirkung>
+```
+
+
+
 ## Weiterführende Lektürehinweise ("Handapparat Argumentationsanalyse")
 
-::: maxime
+::: info
 
 Erste Anlaufstelle im Web für alldiejenigen, die Fragen zum Argumentieren haben oder auf der Suche nach Beispielen, Übungen und Lernmaterial rund um das Thema "Kritisches Denken" sind, ist das von Joe Lau (U Hong Kong) betriebene
 
@@ -99,7 +198,7 @@ Argdown unterscheidet zwischen Thesen (eckige Klammern) und Argumenten (spitze K
 // Eine These
 [Dostojewskis Diktum]: Wenn Gott nicht existiert, dann ist alles erlaubt.
 
-// Ein Argument, mit der These [Dostojewskis Diktum] als Prämisse
+// Ein Argument mit der These [Dostojewskis Diktum] als Prämisse
 <Moralischer Gottesbeweis>
 
   (1) [Dostojewskis Diktum]
@@ -114,157 +213,20 @@ Text, der mit zwei Schrägstrichen beginnt, wird als Kommentar interpretiert.
 // Kommentar, nützlich etwa für die Erläuterung einer Rekonstruktion
 ```
 
-Eine sehr ausführliche Dokumentation der Argdown-Syntax mit zahlreichen Beispielen finden Sie auf der [Argdown-Homepage](http://argdown.org).
+Eine vollständige Dokumentation der Argdown-Syntax mit zahlreichen Beispielen finden Sie auf der [Argdown-Homepage](http://argdown.org).
 
 
-## Vorschläge für die Verwendung von Argumentationsanalyse
+## Hinweise für die Verwendung von Argumentationsanalyse
 
-### Showcase *Climate Engineering Debatte*
+Ich habe eine Argumentation rekonstruiert. Was kann ich mit der Analyse nun  anfangen? Wo ist sie nützlich? 
 
-Ist zulässig, mit großtechnischen Eingriffe in das Klimasystem die menschengemachte Erderwärmung zu kompensieren? Darüber streiten Aktivist:innen, Politiker:innen und Wissenschaftler:innen. Betz und Cacean haben diese sogenannte Climate Engineering Debatte im Rahmen verschiedener Forschungsprojekte seit 2009 analysiert. Die Gesamtstruktur der Rekonstruktion ist als *großformatiges Poster* veröffentlicht; der Forschungsbericht ["Ethical Aspects of Climate Engineering"](http://dx.doi.org/10.5445/KSP/1000028245) zeigt exemplarisch, wie man *Argumentanalysen in Texten* präsentieren, diskutieren und auswerten kann. Hier kommen u.a. folgende Techniken zum Einsatz: Hochggregierte Makrokarte der Gesamtdebatte; feinauflösende Mikrokarten von Teildebatten; argumentative Textstrukturierung; Klassifikation von Argumenten; Darstellung und Analyse exemplarischer Positionen. Die Argumentanalyse liegt auch im interdisziplinären ["Scoping Report Climate Engineering"](https://www.kiel-earth-institute.de/scoping-report-climate-engineering.html) zugrunde; dabei bildet die Argumentkarte den gemeinsamen Bezugspunkt der ganz verschiedenen fachlichen Kapitel. Teile der Analyse sind ferner in [Videos](https://www.youtube.com/watch?v=1ETYgACfK6Y) und [interaktiven Webtools](https://www.iass-potsdam.de/modules/custom/iass_eutrace_apps/resources/ArgunetBrowser/) veröffentlicht worden.
+* In dieser <a href="{{ '/anleitung/' | url }}">**Anleitung**</a> finden Sie erste handwerkliche Vorschläge und Empfehlungen zum Verfassen argumentativer Texte. 
+* Der **Showcase Climate Engineering** führt exemplarisch vor, wie sich Resultate von Argumentationsanalysen vielfältig und gewinnbringend verwenden lassen. 
+
+::: info
+
+In der **Climate Engineering Debatte** streiten Aktivist:innen, Politiker:innen und Wissenschaftler:innen im Kern um folgende Frage: Ist es zulässig, mit großtechnischen Eingriffe in das Klimasystem die menschengemachte Erderwärmung zu kompensieren? Betz und Cacean haben diese Debatte im Rahmen verschiedener Forschungsprojekte seit 2009 analysiert. Die Gesamtstruktur der Rekonstruktion ist als *großformatiges Poster* veröffentlicht; der Forschungsbericht ["Ethical Aspects of Climate Engineering"](http://dx.doi.org/10.5445/KSP/1000028245) zeigt exemplarisch, wie man *Argumentanalysen in Texten* präsentieren, diskutieren und auswerten kann. Hier kommen u.a. folgende Techniken zum Einsatz: Hochggregierte Makrokarte der Gesamtdebatte; feinauflösende Mikrokarten von Teildebatten; argumentative Textstrukturierung; Klassifikation von Argumenten; Darstellung und Analyse exemplarischer Positionen. Die Argumentanalyse liegt auch im interdisziplinären ["Scoping Report Climate Engineering"](https://www.kiel-earth-institute.de/scoping-report-climate-engineering.html) zugrunde; dabei bildet die Argumentkarte den gemeinsamen Bezugspunkt der ganz verschiedenen fachlichen Kapitel. Teile der Analyse sind ferner in [Videos](https://www.youtube.com/watch?v=1ETYgACfK6Y) und [interaktiven Webtools](https://www.iass-potsdam.de/modules/custom/iass_eutrace_apps/resources/ArgunetBrowser/) veröffentlicht worden.
 
 Eine ausführlichere Präsentation des Showcases findet sich im Blog-Eintrag [Mapping the Climate Engineering Controversy](http://www.argunet.org/2013/05/13/mapping-the-climate-engineering-controversy-a-case-of-argument-analysis-driven-policy-advice/).
 
-### Argumentationsanalyse nutzen, um einen Text zu schreiben
-
-Nehmen wir an: Sie haben ein Argument oder eine komplexe Argumentation analysiert und stehen nun vor der Aufgabe, einen Text (einen Essay, einen Bericht, eine Hausarbeit, eine Stellungnahme) auf Grundlage Ihrer Rekonstruktion zu schreiben. Wie macht man das?
-
-Die folgenden Maximen geben Ihnen dazu Hinweise und machen Vorschläge. Wenn Sie wenig Schreiberfahrung haben, können Sie die Maximen als Kochrezept verwenden und Schritt für Schritt einen Text verfassen. (Als ergänzende und vertiefende Lektüre empfehle ich: Jay Rosenberg, 2009, *Philosophieren. Ein Handbuch für Anfänger*, Klostermann, Frankfurt a.M. [[bei genialokal]](https://www.genialokal.de/Produkt/Jay-F-Rosenberg/Philosophieren_lid_8165246.html))
-
-::: maxime
-**Maxime 1:** Sichten, sortieren und ergänzen Sie das Material (Analyseergebnisse und Notizen), auf dem Sie beim Schreiben aufbauen.
 :::
-
-Sie fangen nicht bei Null an. Stattdessen liegt Ihnen bereits viel Material vor, auf das Sie beim Verfassen Ihres Textes zurückgreifen können und sollten. Dazu gehört etwa: 
-
-1. der oder die Quelltext/e, die Sie analysiert und interpretiert haben, 
-2. eine Begründungszusammenfassung, die den Grundgedanken des analysierten Arguments kurz und bündig benennt,
-3. eine Argumentkarte, die die analysierten Argumente zueinander in Beziehung setzt und in einen größeren Kontext einordnet,  
-4. eine (oder mehrere alternative) Detail-Rekonstruktionen der Begründung als deduktiv gültiges Argument, 
-5. die (ggf. auch nur stichpunktartige) Kritik an dem rekonstruierten Argument
-
-Sichten Sie diese ganz wichtigen Vorarbeiten und ergänzen Sie sie wann immer notwendig, auch im Zuge der weiteren Arbeitsschritte. 
-
-::: maxime
-**Maxime 2:** Machen Sie sich klar und halten Sie schriftlich fest, was die Zielsetzung Ihres Textes ist.
-:::
-
-Auf welche Frage antwortet der Text? Formulieren Sie eine eigene (steile oder differenzierte, mutige oder vorsichtige) These, die Sie -- als Antwort auf die Frage -- in dem Essay vertreten. Halten Sie Frage und Antwort schriftlich fest und passen Sie auch diese Notiz um weiteren Schreibprozess Ihrem gedanklichen Fortschritt an.
-
-::: maxime
-**Maxime 3:** Machen Sie sich klar, ob Sie nur eine exegetische oder auch eine systematische These vertreten.
-:::
-
-In einem Text nehmen Sie Stellung. Sie schreiben den Text mit einem Ziel. Dabei lässt sich -- analog zu den zwei Zielen der Argumentationsanalyse -- zunächst ganz allgemein unterscheiden:
-
-1. Sie können den Text in systematischer Absicht schreiben und sich zur Sache äußern. Sie beziehen selbst in der analysierten Debatte Stellung, d.h. vertreten eine These, akzeptieren Argumente, weisen andere zurück.
-2. Sie können den Text in exegetischer Absicht schreiben und sich nur als Interpret:in über die Debatte äußern. Sie beziehen auf der argumentationstheroetischen Metaebene Stellung, etwa indem Sie den Begründungsgang klären, Alternativinterpretationen vorstellen, auf Unklarheiten hinweisen -- aber Sie argumentieren nicht für Ihre eigene Position. 
-
-Man kann argumentationstheoretisch Stellung beziehen, ohne inhaltlich Farbe 
-zu bekennen. Wer aber inhaltlich Stellung bezieht, also eine bestimmte Position in der Debatte vertritt und verteidigt, der sollte dies auf Grund einer Interpretation und Analyse der Debatte tun und muss deshalb immer auch in exegetischer Hinsicht Stellung beziehen.
-
-::: maxime
-**Maxime 4:** Mit einer exegetischen Thesen stellen Sie aufgrund Ihrer Analyse des Quelltextes eine argumentationstheoretische Diagnose.
-:::
-
-Von welcher Art können solche argumentationstheoretische Diagnosen sein? Aufgrund Ihrer Rekonstruktionen können Sie zum Beispiel diagnostizieren: 
-
-* dass ein Argument, allem Anschein entgegen, gar nicht von der problematischen Annahme, für die es kritisiert wird, Gebrauch macht;
-* dass ein Argument überzeugend und raffiniert ist;
-* dass ein Argument einen Fehlschluss begeht; und dass dieser Fehlschluss sich nur auf Kosten der Inkaufnahme höchst unplausibler Zusatzprämissen umgehen lässt;
-* dass eine Begründung im vorliegenden Kontext starker Kritik ausgesetzt ist, die von Proponenten der Begründung nicht erwidert wird; 
-* dass eine Begründung an einer impliziten Prämisse hängt, die in der entsprechenden Debatte gar nicht gesehen und erörtert wird; 
-* dass eine These von einem Gegenargument getroffen wird; eine nur geringfügig und unerheblich modifizierte These aber dem Einwand entgeht; 
-* dass eine von zwei Alternativrekonstruktionen die wohlwollendere und 
-bessere Interpretation als die andere darstellt. 
-
-
-::: maxime
-**Maxime 5:** Die Struktur des Essays ergibt sich aus seiner Zielsetzung.
-:::
-
-Das Ziel, das Sie mit Ihrem Text verfolgen, legt bereits zu großen Teilen einen bestimmten Aufbau Ihres Textes nahe. Nehmen Sie an, sie wollten ein Argument kritisieren und nachweisen, dass es seine Konklusion nicht stichhaltig begründet. Um dies zu tun, sollten Sie natürlich *erstens* das Argument darstellen und *zweitens* die Kritik an dem Argument vortragen, bevor Sie *drittens* Ihren Schluss ziehen und die Überlegung zusammenfassen. Stellen Sie diesen drei Schritten noch eine obligatorische Einleitung vorweg, besitzen Sie bereits die (oder: eine mögliche) Gliederung Ihres Texts! 
-
-::: maxime
-**Maxime 6:** Nutzen Sie Ihre Vorarbeiten, um eine zweckmäßige Gesamtstruktur des Essays zu entwickeln. Erstellen Sie so eine Grobgliederung des Textes.
-:::
-
-Folgende schematische Grobgliederungen illustrieren, wie sich die Ergebnisse der Argumentationsanalyse nutzen lassen, um Text -- mit Blick auf ihre Zielsetzung -- sinnvoll zu gliedern. 
-
-Texte, die die Frage beantworten, ob eine Begründung stichhaltig ist oder nicht, lassen sich beispielsweise wir folgt gliedern (Gliederungen A-C):
-
-* Gliederung A
-  1. Einleitung 
-  2. Das Argument A 
-  3. Kritik an der Prämisse P von A 
-  4. Kritik an der Prämisse Q von A 
-  5. Schluss 
-* Gliederung B
-  1. Einleitung 
-  2. Erster Hauptteil des Arguments A (bis Zwischenkonklusion Z) 
-  3. Diskussion des ersten Hauptteils 
-  4. Zweiter Hauptteil des Arguments A (ab Zwischenkonklusion Z) 
-  5. Diskussion des zweiten Hauptteils 
-  6. Schluss 
-* Gliederung C
-  1. Einleitung 
-  2. Erste Rekonstruktion des Arguments A 
-  3. Kritik an (Prämisse P) der ersten Rekonstruktion 
-  4. Zweite, verbesserte Rekonstruktion des Arguments A 
-  5. Schluss 
-
-Ein Text, der zwei Alternativrekonstruktionen vergleicht und bewertet, könnte indes wir folgt aufgebaut werden:
-
-* Gliederung D
-  1. Einleitung 
-  2. Rekonstruktion der Begründung als Argument A 
-  3. Rekonstruktion der Begründung als Arguments A' 
-  4. Vergleich der Prämissen P und P' 
-  5. Vergleich der Prämissen Q und Q' 
-  6. Schluss 
-
-::: maxime
-**Maxime 7:** Nutzen Sie Ihre Vorarbeiten, um die einzelnen Abschnitte des Textes absatzweise sinnvoll aufzubauen. Erstellen Sie so eine Detailgliederung des Textes.
-::: 
-
-Die Zusammenfassung von Begründungsgängen, Detailrekonstruktionen und Kritik können auch helfen, einzelne Abschnitte Ihres Textes stimmig zu gliedern. Abschnitte, in denen ein Argument A präsentiert wird, können etwa wie folgt aufgebaut werden: 
-
-* Abschnittvariante: Das Argument A 
-    1. Zitat/Skizze/Grundgedanke des Arguments (Fließtext) 
-    2. Informelle Erläuterung der wichtigsten Schlussschritte und Prämissen (Fließtext) 
-    3. Standarddarstellung des rekonstruierten Arguments (Prämissen-Konklusion-Struktur), die die informelle Erläuterung zusammenfasst und präzisiert 
-* Abschnittvariante: Das Argument A 
-    1. Zitat/Skizze/Grundgedanke des Arguments (Fließtext) 
-    2. Standarddarstellung des rekonstruierten Arguments (Prämissen-Konklusion-Struktur)
-    3. Erläuterung der Prämisse P (Fließtext) 
-    4. Erläuterung der Prämisse Q (Fließtext) 
-    5. ...
-* Abschnittvariante: Das Argument A 
-    1. Zitat/Skizze/Grundgedanke des Arguments (Fließtext) 
-    2. Erster Teil des rekonstruierten Arguments (Prämissen-Konklusion-Struktur) 
-    3. Erläuterung des ersten Teils (Fließtext) 
-    4. Zweiter Teil des rekonstruierten Arguments (Prämissen-Konklusion-Struktur) 
-    5. Erläuterung des zweiten Teils (Fließtext) 
-    6. ...
-
-Einen Abschnitt, der ein bereits präsentiertes Argument kritisiert, können Sie beispielsweise wie folgt gliedern:
-
-* Abschnittvariante: Kritik an Argument A  
-   1. Kritik an der Prämisse P (Fließtext) 
-   2. Kritik an der Prämisse Q (Fließtext) 
-   3. Kritik an der Prämisse R (Fließtext) 
-   4. ... 
-* Abschnittvariante: Kritik an Argument A  
-   1. Zwei Lesarten des Ausdrucks E, der in den Prämissen P und Q vorkommt (Fließtext) 
-   2. Kritik an P, wenn man die erste Lesart unterstellt (Fließtext) 
-   3. Kritik an Q, wenn man die zweite Lesart unterstellt (Fließtext) 
-
-Einen Abschnitt, der zwei zuvor vorgestellte Alternativrekonstruktionen vergleicht, könnte etwa so aufgebaut sein:
-
-* Abschnittvariante: Vergleich von zwei Rekonstruktionen des Arguments A 
-   1. Identifikation von Prämissen, die nur in der ersten Rekonstruktion benötigt werden (Fließtext) 
-   2. Diskussion dieser Prämissen (Fließtext) 
-   3. Identifikation von Prämissen, die nur in der zweiten Rekonstruktion benötigt werden (Fließtext) 
-   4. Diskussion dieser Prämissen (Fließtext) 
-
-

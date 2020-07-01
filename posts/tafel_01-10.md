@@ -42,7 +42,7 @@ layout: layouts/post.njk
     unterhalb eines bestimmten Alters nicht unangemessenen Sex- und 
     Gewaltszenen ausgesetzt sind. Wir sollten den Staat, als unseren 
     moralischen Wächter, mit der Regulierung derartigen Materials -- sowie 
-    weiterer im Internet verfügbarer Inhalte --   betrauen, um einen 
+    weiterer im Internet verfügbarer Inhalte -- betrauen, um einen 
     konsistenten Schutz all unserer Kinder zu gewährleisten. Sex und Gewalt in 
     Zeitschriften und im Fernsehen sollten für Kinder so unzugänglich wie 
     möglich sein – pornographische Zeitschriften dürfen nur unter Vorweis eines 
