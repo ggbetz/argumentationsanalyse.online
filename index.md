@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 1
 ---
 
+<p>
+<a class="cover-img" href=""><img src="/img/argumentationsanalyse-cover.jpg"></a>
+</p>
+
 > Wer nur seine eigene Seite der Sache kennt, weiß wenig über diese. 
 > 
 > (J.S. Mill, Über die Freiheit)

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root {
   --red: #C5004A;
   --darkred: #7F0036;
@@ -17,7 +18,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: 'Roboto', system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -175,6 +176,16 @@ pre {
 .nav-item-active {
   font-weight: 700;
   text-decoration: underline;
+}
+.cover-img{
+  display:block;
+  position:relative;
+}
+.cover-img img{
+  width: auto;
+  display: block;
+  max-height: 400px;
+  margin: 0 auto;
 }
 
 /* Posts list */
