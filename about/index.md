@@ -8,4 +8,4 @@ eleventyNavigation:
 ---
 # Über den Autor
 
-Gregor Betz ist Professor für Wissenschaftstheorie am KIT (Karlsruher Institut für Technologie).
+Gregor Betz ist Professor für Wissenschaftstheorie am KIT (Karlsruher Institut für Technologie) und leitet dort das [DebateLab](http://debatelab.philosophie.kit.edu).

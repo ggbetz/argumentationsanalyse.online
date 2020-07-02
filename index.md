@@ -6,14 +6,14 @@ eleventyNavigation:
 ---
 
 <p>
-<a class="cover-img" href=""><img src="/img/argumentationsanalyse-cover.jpg"></a>
+<a class="cover-img" href="https://www.springer.com/de/book/9783476051233"><img src="/img/argumentationsanalyse-cover.jpg"></a>
 </p>
 
 > Wer nur seine eigene Seite der Sache kennt, weiß wenig über diese. 
 > 
 > (J.S. Mill, Über die Freiheit)
 
-[Coverbild] [Inhaltsverzeichnis] [Einleitung]
+*Argumentationsanalyse.online ist die Begleitseite zum Buch 'Argumentationsanalyse. Eine Einführung' von Gregor Betz.* [[Verlagsseite]](https://www.springer.com/de/book/9783476051233) [[bei genialokal](https://www.genialokal.de/Produkt/Gregor-Betz/Argumentationsanalyse_lid_43327761.html)]
 
 Argumente zu verstehen ist kein Kinderspiel. Einige sind schlicht verworren. Andere sind lückenhaft. Wiederum andere sind von trügerischer Klarheit — und erst bei einem zweiten Blick erahnt man, dass sie ganz anders funktionieren, als gedacht.
 
