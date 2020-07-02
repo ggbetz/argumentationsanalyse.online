@@ -40,6 +40,7 @@ h1,h2,h3{
 }
 h2{
   margin-top: 3em;
+  position: relative;
 }
 p:last-child {
   margin-bottom: 0;
@@ -296,6 +297,9 @@ a[href].tag:visited {
   text-decoration: none;
   font-style: normal;
   margin-left: .1em;
+  position: absolute;
+  left: -2rem;
+  top: 0;
 }
 a[href].direct-link,
 a[href].direct-link:visited {
