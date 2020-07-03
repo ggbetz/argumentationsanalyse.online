@@ -1,12 +1,12 @@
 {
-  "title": "Argumentationsanalyse",
-  "url": "https://argumentationsanalyse.online/",
-  "description": "Lehrbuch Argumentationsanalyse: Auszuege und Zusatzmaterial",
+  "title": "Argumentationsanalyse.Online",
+  "url": "http://argumentationsanalyse.online/",
+  "description": "Argumentationsanalyse.online ist die Begleitseite zum Buch '_Argumentationsanalyse. Eine Einführung_' von Gregor Betz.",
   "feed": {
-    "subtitle": "Lehrbuch Argumentationsanalyse: Auszuege und Zusatzmaterial",
+    "subtitle": "Argumentationsanalyse.online ist die Begleitseite zum Buch '_Argumentationsanalyse. Eine Einführung_' von Gregor Betz.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://argumentationsanalyse.online/"
+    "id": "http://argumentationsanalyse.online/"
   },
   "author": {
     "name": "Gregor Betz",
