@@ -35,6 +35,7 @@ blockquote p:last-child{
   font-size: 1.2rem;
 }
 h1,h2,h3{
+  font-family: 'Roboto', system-ui, sans-serif;
   color: var(--darkblue);
   font-weight: bold;
 }

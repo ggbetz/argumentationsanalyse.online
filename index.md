@@ -6,27 +6,30 @@ eleventyNavigation:
 ---
 
 <p>
-<a class="cover-img" href="https://www.springer.com/de/book/9783476051233"><img src="/img/argumentationsanalyse-cover.jpg"></a>
+<a class="cover-img" href="https://www.springer.com/de/book/9783476051233"><img src="{{ '/img/argumentationsanalyse-cover.jpg' | url }}"></a>
 </p>
 
 > Wer nur seine eigene Seite der Sache kennt, weiß wenig über diese. 
 > 
 > (J.S. Mill, Über die Freiheit)
 
-*Argumentationsanalyse.online ist die Begleitseite zum Buch 'Argumentationsanalyse. Eine Einführung' von Gregor Betz.* [[Verlagsseite]](https://www.springer.com/de/book/9783476051233) [[bei genialokal](https://www.genialokal.de/Produkt/Gregor-Betz/Argumentationsanalyse_lid_43327761.html)]
+**Argumentationsanalyse.online ist die Begleitseite zum Buch '_Argumentationsanalyse. Eine Einführung_' von Gregor Betz.**  [[Verlagsseite]](https://www.springer.com/de/book/9783476051233) [[bei_genialokal](https://www.genialokal.de/Produkt/Gregor-Betz/Argumentationsanalyse_lid_43327761.html)]
 
 Argumente zu verstehen ist kein Kinderspiel. Einige sind schlicht verworren. Andere sind lückenhaft. Wiederum andere sind von trügerischer Klarheit — und erst bei einem zweiten Blick erahnt man, dass sie ganz anders funktionieren, als gedacht.
 
-In dem Buch "Argumentationsanalyse" (G. Betz, Metzler 2020, [Link]) lernen Sie, wie man undurchsichtige Argumente verständlich macht. Drei ausführliche und praxisnahe Fallstudien (Analyse einer Pro-Kontra-Liste, Analyse eines philosophischen Klassikers, Analyse einer juristischen Urteilsbegründung) setzen Methoden der Argumentrekonstruktion gewinnbringend ein.
+In dem Buch "'_Argumentationsanalyse_' lernen Sie, wie man undurchsichtige Argumente verständlich macht. Drei ausführliche und praxisnahe Fallstudien (Analyse einer Pro-Kontra-Liste, Analyse eines philosophischen Klassikers, Analyse einer juristischen Urteilsbegründung) setzen Methoden der Argumentrekonstruktion gewinnbringend ein.
 
 **argumentationsanalyse.online** soll Sie dabei unterstützen, aktiv mit dem Buch zu arbeiten und sich selbst an der Rekonstruktion von Argumenten zu versuchen. Hier finden Sie:
+
+::: info
 
 * [Verweise auf die in den Fallstudien rekonstruierten Texte](#texte%2C-die-in-den-fallstudien-rekonstruiert-werden)
 * [Grafische Darstellungen der rekonstruierten Argumente](#grafische-darstellungen-der-rekonstruierten-argumente-(%22tafeln%22))
 * [Weiterführende Lektürehinweise ("Handapparat Argumentationsanalyse")](#weiterf%C3%BChrende-lekt%C3%BCrehinweise-(%22handapparat-argumentationsanalyse%22))
 * [Notizen zur Argdown-Syntax](#notizen-und-verweise-zur-argdown-syntax)
-* [Hinweise für die Verwendung von Argumentationsanalyse](#hinweise-f%C3%BCr-die-verwendung-von-argumentationsanalyse)
+* [Hinweise zur Verwendung von Argumentationsanalysen](#wofür-lässt-sich-eine-analyse-von-argumenten-verwenden%3F)
 
+::: 
 
 ## Texte, die in den Fallstudien rekonstruiert werden
 
@@ -220,7 +223,7 @@ Text, der mit zwei Schrägstrichen beginnt, wird als Kommentar interpretiert.
 Eine vollständige Dokumentation der Argdown-Syntax mit zahlreichen Beispielen finden Sie auf der [Argdown-Homepage](http://argdown.org).
 
 
-## Hinweise für die Verwendung von Argumentationsanalyse
+## Wofür lässt sich eine Analyse von Argumenten verwenden?
 
 Ich habe eine Argumentation rekonstruiert. Was kann ich mit der Analyse nun  anfangen? Wo ist sie nützlich? 
 
@@ -229,7 +232,11 @@ Ich habe eine Argumentation rekonstruiert. Was kann ich mit der Analyse nun  anf
 
 ::: info
 
-In der **Climate Engineering Debatte** streiten Aktivist:innen, Politiker:innen und Wissenschaftler:innen im Kern um folgende Frage: Ist es zulässig, mit großtechnischen Eingriffe in das Klimasystem die menschengemachte Erderwärmung zu kompensieren? Betz und Cacean haben diese Debatte im Rahmen verschiedener Forschungsprojekte seit 2009 analysiert. Die Gesamtstruktur der Rekonstruktion ist als *großformatiges Poster* veröffentlicht; der Forschungsbericht ["Ethical Aspects of Climate Engineering"](http://dx.doi.org/10.5445/KSP/1000028245) zeigt exemplarisch, wie man *Argumentanalysen in Texten* präsentieren, diskutieren und auswerten kann. Hier kommen u.a. folgende Techniken zum Einsatz: Hochggregierte Makrokarte der Gesamtdebatte; feinauflösende Mikrokarten von Teildebatten; argumentative Textstrukturierung; Klassifikation von Argumenten; Darstellung und Analyse exemplarischer Positionen. Die Argumentanalyse liegt auch im interdisziplinären ["Scoping Report Climate Engineering"](https://www.kiel-earth-institute.de/scoping-report-climate-engineering.html) zugrunde; dabei bildet die Argumentkarte den gemeinsamen Bezugspunkt der ganz verschiedenen fachlichen Kapitel. Teile der Analyse sind ferner in [Videos](https://www.youtube.com/watch?v=1ETYgACfK6Y) und [interaktiven Webtools](https://www.iass-potsdam.de/modules/custom/iass_eutrace_apps/resources/ArgunetBrowser/) veröffentlicht worden.
+In der **Climate Engineering Debatte** streiten Aktivist:innen, Politiker:innen und Wissenschaftler:innen im Kern um folgende Frage: Ist es zulässig, mit großtechnischen Eingriffe in das Klimasystem die menschengemachte Erderwärmung zu kompensieren? 
+
+<img src="{{ '/img/scoping_report_ce.png' | url }}" width=90%>
+
+Betz und Cacean haben diese Debatte im Rahmen verschiedener Forschungsprojekte seit 2009 analysiert. Die Gesamtstruktur der Rekonstruktion ist als [großformatiges Poster](https://publikationen.bibliothek.kit.edu/1000026042) veröffentlicht; der Forschungsbericht ["Ethical Aspects of Climate Engineering"](http://dx.doi.org/10.5445/KSP/1000028245) zeigt exemplarisch, wie man *Argumentanalysen in Texten* präsentieren, diskutieren und auswerten kann. Hier kommen u.a. folgende Techniken zum Einsatz: Hochggregierte Makrokarte der Gesamtdebatte; feinauflösende Mikrokarten von Teildebatten; argumentative Textstrukturierung; Klassifikation von Argumenten; Darstellung und Analyse exemplarischer Positionen. Die Argumentanalyse liegt auch im interdisziplinären ["Scoping Report Climate Engineering"](https://www.kiel-earth-institute.de/scoping-report-climate-engineering.html) zugrunde; dabei bildet die Argumentkarte den gemeinsamen Bezugspunkt der ganz verschiedenen fachlichen Kapitel. Teile der Analyse sind ferner in [Videos](https://www.youtube.com/watch?v=1ETYgACfK6Y) und [interaktiven Webtools](https://www.iass-potsdam.de/modules/custom/iass_eutrace_apps/resources/ArgunetBrowser/) veröffentlicht worden.
 
 Eine ausführlichere Präsentation des Showcases findet sich im Blog-Eintrag [Mapping the Climate Engineering Controversy](http://www.argunet.org/2013/05/13/mapping-the-climate-engineering-controversy-a-case-of-argument-analysis-driven-policy-advice/).
 
