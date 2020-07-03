@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Argumentationsanalyse</title>
-	<subtitle>Lehrbuch Argumentationsanalyse: Auszuege und Zusatzmaterial</subtitle>
+	<title>Argumentationsanalyse.Online</title>
+	<subtitle>Argumentationsanalyse.online ist die Begleitseite zum Buch &#39;_Argumentationsanalyse. Eine Einführung_&#39; von Gregor Betz.</subtitle>
 	
-	<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/feed/feed.xml" rel="self"/>
-	<link href="https://argumentationsanalyse.online/"/>
+	<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/feed/feed.xml" rel="self"/>
+	<link href="http://argumentationsanalyse.online/"/>
 	<updated>2020-05-04T02:00:00+02:00</updated>
-	<id>https://argumentationsanalyse.online/</id>
+	<id>http://argumentationsanalyse.online/</id>
 	<author>
 		<name>Gregor Betz</name>
 		<email>gregor.betz@kit.edu</email>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Pro-Kontra-Liste &quot;Staatliche Zensur&quot; im Debater&#39;s Handbook</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-01/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-01/"/>
 		<updated>2020-01-01T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-01/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-01/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Staatliche Zensur]&lt;/span&gt;
 &lt;span class=&quot;hljs-support&quot;&gt;  +&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Pro1&amp;gt;:&lt;/span&gt; Freie Meinungsäußerung ist niemals ein absolutes Recht, sondern 
     ein erstrebenswertes Ziel. Sie hört auf, ein Recht zu sein, wenn wegen ihr
@@ -392,9 +392,9 @@
 	
 	<entry>
 		<title>Zentrale Thesen der Pro-Kontra-Argumentation</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-02/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-02/"/>
 		<updated>2020-01-02T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-02/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-02/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Keine absolute Meinungsfreiheit]:&lt;/span&gt; Freie Meinungsäußerung ist niemals ein absolutes Recht. 
     &lt;span class=&quot;hljs-comment&quot;&gt;/* Vgl. [Pro1] */&lt;/span&gt;
 
@@ -416,9 +416,9 @@
 	
 	<entry>
 		<title>Erste Präzisierung der drei zentralen Thesen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-03/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-03/"/>
 		<updated>2020-01-03T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-03/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-03/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Absolute Meinungsfreiheit]:&lt;/span&gt; Freie Meinungsäußerung ist ein absolutes Recht.
     &lt;span class=&quot;hljs-comment&quot;&gt;/*Vgl. [Pro1]*/&lt;/span&gt;
 
@@ -440,9 +440,9 @@
 	
 	<entry>
 		<title>Differenzierung der These zur Meinungsfreiheit</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-04/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-04/"/>
 		<updated>2020-01-04T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-04/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-04/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Meinungsfreiheit-1]:&lt;/span&gt; Jeder Mensch besitzt ein Grundrecht auf freie 
 Meinungsäußerung, das nur mit anderen Grundrechten abgewogen werden darf. 
 
@@ -464,9 +464,9 @@ Verfassung verbürgtes und jederzeit individuell einklagbares Grundrecht sein.&l
 	
 	<entry>
 		<title>Differenzierung der Thesen zu Zensurgebot und -verbot</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-05/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-05/"/>
 		<updated>2020-01-05T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-05/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-05/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot-1]:&lt;/span&gt; Staatliche Zensur-1 ist prinzipiell falsch.
 
 &lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot-2]:&lt;/span&gt; Staatliche Zensur-2 ist prinzipiell falsch.
@@ -493,9 +493,9 @@ Verfassung verbürgtes und jederzeit individuell einklagbares Grundrecht sein.&l
 	
 	<entry>
 		<title>Inferentieller Zusammenhang zwischen Zensurverbot und Meinungsfreiheit</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-06/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-06/"/>
 		<updated>2020-01-06T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-06/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-06/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot-1]:&lt;/span&gt; Jede Form staatlichen (d. h. gesetzgebenden, 
 rechtssprechenden oder exekutiven) Handelns, das in der Folge 
 Personen daran hindert, frei ihre Meinung zu äußern, ist 
@@ -544,9 +544,9 @@ moralisch falsch.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot;map&quo
 	
 	<entry>
 		<title>Inferentieller Zusammenhang zwischen Zensurgebot und -verbot</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-07/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-07/"/>
 		<updated>2020-01-07T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-07/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-07/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot-1]:&lt;/span&gt; Staatliche Zensur-1 ist prinzipiell falsch. 
 &lt;span class=&quot;hljs-attack&quot;&gt;	&amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot-1]:&lt;/span&gt; In einigen Fällen ist staatliche Zensur-1 
      geboten. 
@@ -611,9 +611,9 @@ moralisch falsch.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot;map&quo
 	
 	<entry>
 		<title>Stärkere und schwächere Varianten von Zensurgebot und -verbot</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-08/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-08/"/>
 		<updated>2020-01-08T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-08/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-08/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot-1]:&lt;/span&gt; Staatliche Zensur-1 ist prinzipiell falsch. 
 &lt;span class=&quot;hljs-support&quot;&gt;  +&amp;gt;&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot-2]:&lt;/span&gt; Staatliche Zensur-2 ist prinzipiell 
      falsch. 
@@ -677,9 +677,9 @@ moralisch falsch.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot;map&quo
 	
 	<entry>
 		<title>Illustrative These &#39;Falschmeldungsverbot&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-09/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-09/"/>
 		<updated>2020-01-09T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-09/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-09/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Falschmeldungsverbot]:&lt;/span&gt; Internetkonzerne sollten gesetzlich dazu
 verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot;map&quot;&gt;
 &lt;!-- Generated by graphviz version 2.44.0 (20200408.0750)
@@ -695,9 +695,9 @@ verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&l
 	
 	<entry>
 		<title>Pro-Kontra-Liste, gruppiert nach verschiedenen zentralen Thesen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-10/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-10/"/>
 		<updated>2020-01-10T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-10/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-10/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot]&lt;/span&gt;
 &lt;span class=&quot;hljs-attack&quot;&gt;  &amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Pro1&amp;gt;:&lt;/span&gt; Freie Meinungsäußerung ist niemals ein absolutes Recht, sondern 
     ein erstrebenswertes Ziel. Sie hört auf, ein Recht zu sein, wenn wegen ihr
@@ -1100,9 +1100,9 @@ verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&l
 	
 	<entry>
 		<title>Gründehierarchie mit Grund &#39;Pro2&#39; und Erwiderung &#39;Con2&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-11/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-11/"/>
 		<updated>2020-01-11T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-11/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-11/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]&lt;/span&gt; 
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Pro2&amp;gt;:&lt;/span&gt; Bestimmte Literaturformen oder visuelle Darstellungen
     sind auf überzeugende Weise mit Kriminalität in Verbindung
@@ -1161,9 +1161,9 @@ verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&l
 	
 	<entry>
 		<title>Gründehierarchie mit Grund &#39;Pro3&#39; und mehrstufiger, differenzierter Erwiderung &#39;Con3&#39; (erste Alternative)</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-12/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-12/"/>
 		<updated>2020-01-12T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-12/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-12/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]&lt;/span&gt; 
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Pro3&amp;gt;:&lt;/span&gt; &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt;
 &lt;span class=&quot;hljs-attack&quot;&gt;    &amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Con3-1&amp;gt;:&lt;/span&gt; „Derartige Formen staatlicher Regulierung sind 
@@ -1265,9 +1265,9 @@ verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&l
 	
 	<entry>
 		<title>Gründehierarchie mit Grund &#39;Pro3&#39; und mehrstufiger, differenzierter Erwiderung &#39;Con3&#39; (zweite Alternative)</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-13/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-13/"/>
 		<updated>2020-01-13T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-13/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-13/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]&lt;/span&gt; 
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Pro3&amp;gt;:&lt;/span&gt; &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt;
 &lt;span class=&quot;hljs-attack&quot;&gt;    &amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Con3-1&amp;gt;:&lt;/span&gt; „Derartige Formen staatlicher Regulierung sind 
@@ -1349,9 +1349,9 @@ verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&l
 	
 	<entry>
 		<title>Gründehierarchie im Anschluss an Grund &#39;Pro4&#39; mit Erwiderungen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-14/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-14/"/>
 		<updated>2020-01-14T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-14/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-14/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]&lt;/span&gt; 
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Pro4&amp;gt;:&lt;/span&gt; Staatliche Zensur ist im Kontext von Kinder- und 
     Hardcore-Pornografie erforderlich. &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt;
@@ -1482,9 +1482,9 @@ verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&l
 	
 	<entry>
 		<title>Modifizierte Gründehierarchie im Anschluss an Grund &#39;Pro4&#39; mit Erwiderungen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-15/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-15/"/>
 		<updated>2020-01-15T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-15/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-15/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]&lt;/span&gt; 
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Pro4&amp;gt;:&lt;/span&gt; Staatliche Zensur ist im Kontext von Kinder- und 
     Hardcore-Pornografie erforderlich. &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt;
@@ -1590,9 +1590,9 @@ verpflichtet werden, Falschmeldungen im Netz nicht zu verbreiten.&lt;/code&gt;&l
 	
 	<entry>
 		<title>Argumentkarte zur These &#39;Zensurgebot&#39; mit Gründen und Erwiderungen &#39;Pro4&#39;/&#39;Con4&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-16/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-16/"/>
 		<updated>2020-01-16T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-16/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-16/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]:&lt;/span&gt; Es gibt Fälle, in denen Gesetzgebung, die bestimmte
 Formen der Meinungsäußerung und -wiedergabe untersagt und 
 sanktioniert, geboten ist. 
@@ -1752,9 +1752,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Informelle Analyse des Arguments &#39;Schutz vor Kinder- und Hardcore-Pornografie&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-17/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-17/"/>
 		<updated>2020-01-17T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-17/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-17/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]:&lt;/span&gt; Es gibt Fälle, in denen Gesetzgebung, die bestimmte
 Formen der Meinungsäußerung und -wiedergabe untersagt und 
 sanktioniert, geboten ist. 
@@ -1823,9 +1823,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Argument &#39;Zensur unwirksam&#39; als untergrabender Einwand</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-18/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-18/"/>
 		<updated>2020-01-18T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-18/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-18/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]:&lt;/span&gt; Es gibt Fälle, in denen Gesetzgebung, die bestimmte
 Formen der Meinungsäußerung und -wiedergabe untersagt und
 sanktioniert, geboten ist. 
@@ -1916,9 +1916,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Argument &#39;Zensur unwirksam&#39; als direkt angreifender Einwand</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-19/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-19/"/>
 		<updated>2020-01-19T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-19/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-19/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]:&lt;/span&gt; Es gibt Fälle, in denen Gesetzgebung, die bestimmte
 Formen der Meinungsäußerung und -wiedergabe untersagt und
 sanktioniert, geboten ist. 
@@ -2026,9 +2026,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Einwand &#39;Erziehung effektiver&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-20/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-20/"/>
 		<updated>2020-01-20T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-20/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-20/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]:&lt;/span&gt; Es gibt Fälle, in denen Gesetzgebung, die bestimmte
 Formen der Meinungsäußerung und -wiedergabe untersagt und
 sanktioniert, geboten ist. 
@@ -2126,9 +2126,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Präzisierung des Arguments &#39;Schutz vor Kinder- und Hardcore-Pornografie&#39; durch Analyse des Einwands &#39;Erziehung effektiver&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-21/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-21/"/>
 		<updated>2020-01-21T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-21/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-21/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]:&lt;/span&gt; Es gibt Fälle, in denen Gesetzgebung, die bestimmte
 Formen der Meinungsäußerung und -wiedergabe untersagt und 
 sanktioniert, geboten ist. 
@@ -2234,9 +2234,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Argument &#39;Schutz vor Kinder- und Hardcore-Pornografie&#39; in Standard-Darstellung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-22/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-22/"/>
 		<updated>2020-01-22T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-22/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-22/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz vor Kinder- und Hardcore-Pornografie&amp;gt;&lt;/span&gt; &lt;span class=&quot;hljs-meta&quot;&gt;{quelle: Pro4}&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Kinder sowie junge Frauen und Männer müssen vor der Ausbeutung
@@ -2270,9 +2270,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Unterscheidung und gesonderte Rekonstruktion von zwei Argumenten: &#39;Schutz vor Ausbeutung&#39; und &#39;Schutz vor schäbigen Einstellungen&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-23/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-23/"/>
 		<updated>2020-01-23T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-23/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-23/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz vor Ausbeutung&amp;gt;&lt;/span&gt; &lt;span class=&quot;hljs-meta&quot;&gt;{quelle: Pro4}&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Kinder sowie junge Frauen und Männer müssen vor der Ausbeutung
@@ -2385,9 +2385,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>&#39;Erziehung effektiver&#39; als Einwand gegen &#39;Schutz vor schäbigen Einstellungen&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-24/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-24/"/>
 		<updated>2020-01-24T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-24/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-24/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz vor schäbigen Einstellungen&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;hljs-attack&quot;&gt;  &amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Erziehung effektiver&amp;gt;:&lt;/span&gt; Es gibt eine Alternativmaßnahme, die –
     in Bezug auf den Schutz der Gesellschaft vor den schäbigen 
@@ -2465,9 +2465,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Weiteres Argument &#39;Kinderpornographie ohnehin illegal&#39; als Einwand gegen &#39;Schutz vor Ausbeutung&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-25/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-25/"/>
 		<updated>2020-01-25T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-25/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-25/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz vor Ausbeutung&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;hljs-attack&quot;&gt;  &amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Kinderpornographie ohnehin illegal&amp;gt;:&lt;/span&gt; Es gibt eine
     Alternativmaßnahme, die – in Bezug auf den Schutz vor Ausbeutung
@@ -2531,9 +2531,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Informelle Alternativrekonstruktion der Pro-Kontra-Gründe mit &#39;Schutz vor Kinder- und Hardcore-Pornografie&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-26/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-26/"/>
 		<updated>2020-01-26T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-26/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-26/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]:&lt;/span&gt; Es gibt Fälle, in denen Gesetzgebung, die bestimmte
 Formen der Meinungsäußerung und -wiedergabe untersagt und
 sanktioniert, geboten ist. 
@@ -2677,9 +2677,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>&#39;Schutz vor Kinder- und Hardcore-Pornografie&#39; in Standard-Darstellung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-27/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-27/"/>
 		<updated>2020-01-27T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-27/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-27/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz vor Kinder- und Hardcore-Pornografie&amp;gt;&lt;/span&gt; &lt;span class=&quot;hljs-meta&quot;&gt;{quelle: Pro4}&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Kinder sowie junge Frauen und Männer müssen vor der Ausbeutung
@@ -2740,9 +2740,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>Schema Praktischer Syllogismus (Optimalitätsvariante)</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-28/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-28/"/>
 		<updated>2020-01-28T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-28/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-28/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Praktischer Syllogismus (Optimalitätsvariante)&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Es ist geboten, dass Sachverhalt Z.    &lt;span class=&quot;hljs-comment&quot;&gt;/*Zwecksetzungsprämisse*/&lt;/span&gt;
@@ -2764,9 +2764,9 @@ sanktioniert, geboten ist.
 	
 	<entry>
 		<title>&#39;Schutz vor Kinder- und Hardcore-Pornografie&#39; (erstes Teilargument) als praktischer Syllogismus</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-29/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-29/"/>
 		<updated>2020-01-29T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-29/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-29/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz vor Kinder- und Hardcore-Pornografie&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Es ist geboten, dass ein Schutz vor Ausbeutung und ein Schutz
@@ -2846,9 +2846,9 @@ Praktischer Syllogismus (Optimalitätsvariante)
 	
 	<entry>
 		<title>&#39;Schutz vor Kinder- und Hardcore-Pornografie&#39; (zweites Teilargument) aussagenlogisch rekonstruiert</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-30/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-30/"/>
 		<updated>2020-01-30T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-30/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-30/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(4)&lt;/span&gt; Die Hardcore-Pornografie-Zensur ist geboten.
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(5)&lt;/span&gt; Wenn die Hardcore-Pornografie-Zensur geboten ist, dann gibt es
     Fälle, in denen Gesetzgebung, die bestimmte Formen der
@@ -2896,9 +2896,9 @@ Modus ponens
 	
 	<entry>
 		<title>&#39;Schutz vor Kinder- und Hardcore-Pornografie&#39; (zweites Teilargument) prädikatenlogisch rekonstruiert</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-31/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-31/"/>
 		<updated>2020-01-31T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-31/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-31/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(4)&lt;/span&gt; Die Hardcore-Pornografie-Zensur ist geboten.
     &lt;span class=&quot;hljs-comment&quot;&gt;/*Geboten: Maßnahme z*/&lt;/span&gt;
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(5)&lt;/span&gt; Die Hardcore-Pornografie-Zensur ist eine Gesetzgebung, die
@@ -2947,9 +2947,9 @@ Konjunktions- und Existenzeinführung
 	
 	<entry>
 		<title>&#39;Zensur unwirksam&#39; in Standard-Darstellung, erste Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-32/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-32/"/>
 		<updated>2020-02-01T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-32/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-32/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zensur unwirksam&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Eine gesetzliche Zensur von Pornographie ist unwirksam: sie
@@ -2976,9 +2976,9 @@ Konjunktions- und Existenzeinführung
 	
 	<entry>
 		<title>Zwischenschritte in &#39;Zensur unwirksam&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-33/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-33/"/>
 		<updated>2020-02-02T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-33/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-33/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zensur unwirksam&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Leute, auch Kinder und Jugendliche, werden Pornographie immer
@@ -3003,9 +3003,9 @@ Konjunktions- und Existenzeinführung
 	
 	<entry>
 		<title>Weitere Zwischenschritte und Ergänzung impliziter Prämissen in &#39;Zensur unwirksam&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-34/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-34/"/>
 		<updated>2020-02-02T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-34/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-34/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zensur unwirksam&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(2)&lt;/span&gt; Die Hardcore-Pornografie-Zensur wird die Rezeption von
@@ -3048,9 +3048,9 @@ Folgt aus (4) und (7)
 	
 	<entry>
 		<title>Logisch-semantische Analyse und sprachliche Präzisierung von &#39;Zensur unwirksam&#39; sowie Angabe von Schlussmustern</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-35/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-35/"/>
 		<updated>2020-02-04T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-35/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-35/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(2)&lt;/span&gt; Die gesetzliche Zensur von Kinder- und Hardcore-Pornografie
     wird die Rezeption von Kinder- und Hardcore-Pornografie nicht
     verringern.
@@ -3104,9 +3104,9 @@ Folgt aus (4), (7) und (8) mit Allspezialisierung und Modus ponens
 	
 	<entry>
 		<title>Unterscheidung von zwei Varianten von &#39;Zensur unwirksam&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-36/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-36/"/>
 		<updated>2020-02-05T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-36/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-36/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zensur unwirksam 2&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Keine Rezeptionsverringerung]:&lt;/span&gt; Die gesetzliche Zensur von
@@ -3175,9 +3175,9 @@ Folgt aus (4) und (5) mit Allspezialisierung, Kontraposition und Modus ponens
 	
 	<entry>
 		<title>&#39;Zensur leicht umgehbar&#39; in Standard-Darstellung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-37/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-37/"/>
 		<updated>2020-02-06T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-37/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-37/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zensur leicht umgehbar&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Jeder kann sogar illegale Kinder- und Hardcore-Pornografie in
@@ -3226,9 +3226,9 @@ Folgt aus (4) und (5) mit Allspezialisierung, Kontraposition und Modus ponens
 	
 	<entry>
 		<title>Dialektische Struktur der bisher detailliert rekonstruierten Einwände</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-38/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-38/"/>
 		<updated>2020-02-07T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-38/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-38/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurgebot]&lt;/span&gt;
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz vor Kinder- und Hardcore-Pornografie&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;hljs-attack&quot;&gt;    &amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zensur unwirksam 1&amp;gt;&lt;/span&gt;
@@ -3323,9 +3323,9 @@ Folgt aus (4) und (5) mit Allspezialisierung, Kontraposition und Modus ponens
 	
 	<entry>
 		<title>&#39;Geeigneteres Maßnahmenbündel&#39; in Standard-Darstellung, erste Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-39/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-39/"/>
 		<updated>2020-02-08T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-39/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-39/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Geeigneteres Maßnahmenbündel&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Es gibt eine Alternativmaßnahme (ein Bündel von Maßnahmen), die
@@ -3351,9 +3351,9 @@ Folgt aus (4) und (5) mit Allspezialisierung, Kontraposition und Modus ponens
 	
 	<entry>
 		<title>&#39;Geeigneteres Maßnahmenbündel&#39; in Standard-Darstellung, zweite Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-40/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-40/"/>
 		<updated>2020-02-09T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-40/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-40/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Geeigneteres Maßnahmenbündel&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Es gibt eine geeignetere und effektive Alternativmaßnahme in
@@ -3379,9 +3379,9 @@ Folgt aus (4) und (5) mit Allspezialisierung, Kontraposition und Modus ponens
 	
 	<entry>
 		<title>&#39;Geeigneteres Maßnahmenbündel&#39; in Standard-Darstellung mit ergänzten impliziten Prämissen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-41/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-41/"/>
 		<updated>2020-02-10T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-41/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-41/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Geeigneteres Maßnahmenbündel&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Es gibt eine effektive Alternativmaßnahme, die zum Schutz vor
@@ -3420,9 +3420,9 @@ Modus ponens aus 1-3
 	
 	<entry>
 		<title>&#39;Geeigneteres Maßnahmenbündel&#39; in Standard-Darstellung mit ergänzten impliziten Prämissen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-42/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-42/"/>
 		<updated>2020-02-11T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-42/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-42/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Geeigneteres Maßnahmenbündel&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Es gibt eine effektive Alternativmaßnahme, die zum Schutz vor
@@ -3461,9 +3461,9 @@ Modus ponens aus 1-3
 	
 	<entry>
 		<title>Weitere universelle Aussage als alternative implizite Prämisse in &#39;Geeigneteres Maßnahmenbündel&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-43/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-43/"/>
 		<updated>2020-02-12T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-43/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-43/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Geeigneteres Maßnahmenbündel&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Es gibt eine effektive Alternativmaßnahme, die zum Schutz vor
@@ -3500,9 +3500,9 @@ Modus ponens aus 1-3
 	
 	<entry>
 		<title>Wohlwollende und finale Detailrekonstruktion von &#39;Geeigneteres Maßnahmenbündel&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-44/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-44/"/>
 		<updated>2020-02-13T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-44/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_01-44/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Geeigneteres Maßnahmenbündel&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die konsequente Umsetzung bestehender Gesetze führt zum Schutz
@@ -3618,9 +3618,9 @@ Allspezialisierung, Modus ponens, Existenzeinführung
 	
 	<entry>
 		<title>Mills zentrale These &#39;Zensurverbot&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-01/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-01/"/>
 		<updated>2020-03-01T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-01/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-01/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Zensurverbot]:&lt;/span&gt; Es ist falsch, Personen daran zu hindern, frei
 ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot;map&quot;&gt;
 &lt;!-- Generated by graphviz version 2.44.0 (20200408.0750)
@@ -3636,9 +3636,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Grobgliederung des zweiten Kapitels in Mills &#39;Über die Freiheit&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-02/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-02/"/>
 		<updated>2020-03-02T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-02/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-02/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// A. Einleitung: Klärung der These und Skizze der Argumentation.&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//    [S. 323-325, 1-2]&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;// B. Fall i: Die unterdrückte Meinung ist (möglicherweise) wahr. &lt;/span&gt;
@@ -3662,9 +3662,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Feingliederung des zweiten Kapitels (Fall I)</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-03/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-03/"/>
 		<updated>2020-03-03T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-03/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-03/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// B. Fall I: Die unterdrückte Meinung ist (möglicherweise) wahr.&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//    [S. 325-346, 3-20]&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//     B.1. Allgemeine Argumentation [S. 325-331, 3-10]&lt;/span&gt;
@@ -3717,9 +3717,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Feingliederung des zweiten Kapitels (Fall II)</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-04/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-04/"/>
 		<updated>2020-03-04T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-04/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-04/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// C. Fall II: Die unterdrückte Meinung ist (sicher) falsch.&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//    [S. 346-358, 21-33]&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//     C.1. Einleitende Bemerkung [S. 346, 21]&lt;/span&gt;
@@ -3765,9 +3765,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Feingliederung des zweiten Kapitels (Fall III)</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-05/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-05/"/>
 		<updated>2020-03-05T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-05/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-05/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// D. Fall III: Die unterdrückte Meinung ist partiell wahr.&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//    [S. 358-365, 34-39]  &lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//     D.1. Einleitende Bemerkung [S. 358, 34]&lt;/span&gt;
@@ -3794,9 +3794,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Feingliederung des zweiten Kapitels (Schlussteil)</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-06/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-06/"/>
 		<updated>2020-03-06T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-06/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-06/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// E. Schluss [S. 366-368, 40-44]&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//    E.1. Zusammenfassung der Argumentation [S. 366, 40-43]&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//    E.2. Erörterung der Regeln gelingender Diskussion&lt;/span&gt;
@@ -3814,9 +3814,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Argument &#39;Zentrale Fallunterscheidung&#39;, erster Rekonstruktionsversuch</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-07/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-07/"/>
 		<updated>2020-03-07T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-07/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-07/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Fallunterscheidung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die unterdrückte Meinung ist (möglicherweise) wahr, oder die
@@ -3867,9 +3867,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Argument &#39;Zentrale Fallunterscheidung&#39;, verbesserte Rekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-08/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-08/"/>
 		<updated>2020-03-08T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-08/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-08/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Fallunterscheidung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Eine unterdrückte Meinung ist i. (möglicherweise) wahr, oder 
@@ -3920,9 +3920,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Argument &#39;Zentrale Fallunterscheidung&#39;, abermals verbesserte Rekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-09/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-09/"/>
 		<updated>2020-03-09T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-09/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-09/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Fallunterscheidung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Eine Meinung ist i. gänzlich wahr, oder ii. gänzlich falsch,
@@ -3971,9 +3971,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Argument &#39;Keine Erkenntnis ohne Gründe&#39;, erster Rekonstruktionsversuch</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-10/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-10/"/>
 		<updated>2020-03-10T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-10/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-10/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Keine Erkenntnis ohne Gründe&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Eine Meinung ist nur dann rationale Erkenntnis, wenn man die
@@ -3994,9 +3994,9 @@ ihre Meinung zu äußern.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div slot=&quot
 	
 	<entry>
 		<title>Argument &#39;Keine Erkenntnis ohne Gründe&#39;, verbesserte Rekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-11/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-11/"/>
 		<updated>2020-03-11T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-11/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-11/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Keine Erkenntnis ohne Gründe&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die Bedingungen, die rationalen Wissenserwerb überhaupt erst
@@ -4024,9 +4024,9 @@ Kettenschluss und Modus barbara
 	
 	<entry>
 		<title>&#39;Argument geistiger Vervollkommnung&#39;, Detailrekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-12/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-12/"/>
 		<updated>2020-03-12T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-12/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-12/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Argument geistiger Vervollkommnung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Der Verstand und das Urteilsvermögen aller Menschen soll
@@ -4059,9 +4059,9 @@ Kettenschluss und Modus barbara
 	
 	<entry>
 		<title>Gründehierarchie, die die dialektische Struktur der Textpassagen 3.2.3–3.2.4 skizziert</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-13/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-13/"/>
 		<updated>2020-03-13T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-13/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-13/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Argument geistiger Vervollkommnung&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;hljs-attack&quot;&gt;    &amp;lt;-&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Erkenntnis durch Belehrung&amp;gt;:&lt;/span&gt; Man kann die Gründe seiner
       Meinung sehr wohl ohne freie Diskussion einsehen, nämlich
@@ -4261,9 +4261,9 @@ Kettenschluss und Modus barbara
 	
 	<entry>
 		<title>&#39;Das epistemische Master-Argument&#39; als Zusammenfassung von Mills Überlegungen in 3.2.1–3.2.4</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-14/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-14/"/>
 		<updated>2020-03-14T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-14/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-14/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Das epistemische Master-Argument&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Man erkennt höchstens dann, dass eine Meinung gut begründet
@@ -4315,9 +4315,9 @@ Kettenschluss und Modus barbara
 	
 	<entry>
 		<title>&#39;Argument aus der Bedeutung&#39;, Detailrekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-15/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-15/"/>
 		<updated>2020-03-15T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-15/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-15/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Argument aus der Bedeutung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Wahre Meinungen sollten Bedeutung haben, Ideen anregen und
@@ -4343,9 +4343,9 @@ Kettenschluss und Modus barbara
 	
 	<entry>
 		<title>Skizze &#39;Beleg durch Religionsgeschichte&#39; als Stützung von &#39;Argument aus der Bedeutung&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-16/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-16/"/>
 		<updated>2020-03-16T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-16/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-16/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Beleg durch Religionsgeschichte&amp;gt;:&lt;/span&gt; Der Glaube der frühen Christen
   hat ihre Lebensführung bestimmt und ist schließlich zu einer
   Staatsreligion geworden. Im 19. Jahrhundert hat der christliche
@@ -4395,9 +4395,9 @@ Kettenschluss und Modus barbara
 	
 	<entry>
 		<title>Rekonstruktion von &#39;Beleg durch Religionsgeschichte&#39; als Schluss auf die beste Erklärung, erster Versuch</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-17/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-17/"/>
 		<updated>2020-03-17T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-17/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-17/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Ideengeschichtlicher Befund]:&lt;/span&gt; Der Glaube der frühen Christen
     hat ihre Lebensführung bestimmt und ist schließlich zu einer
     Staatsreligion geworden; im 19. Jahrhundert hat der christliche
@@ -4467,9 +4467,9 @@ Schluss auf die beste Erklärung
 	
 	<entry>
 		<title>Rekonstruktion von &#39;Beleg durch Religionsgeschichte&#39; als Schluss auf die beste Erklärung, verbesserte Analyse</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-18/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-18/"/>
 		<updated>2020-03-18T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-18/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-18/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Ideengeschichtlicher Befund]&lt;/span&gt; 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(2)&lt;/span&gt; Bestandteil der besten Erklärung des in @&lt;span class=&quot;hljs-statement-title&quot;&gt;[Ideengeschichtlicher
     Befund]&lt;/span&gt; beschriebenen Sachverhalts ist die Annahme, dass
@@ -4528,9 +4528,9 @@ Schluss auf die beste Erklärung
 	
 	<entry>
 		<title>Rekonstruktion von &#39;Beleg durch Religionsgeschichte&#39; als Schluss auf die beste Erklärung mit Konklusionsabschwächung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-19/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-19/"/>
 		<updated>2020-03-19T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-19/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-19/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Ideengeschichtlicher Befund]&lt;/span&gt; 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(2)&lt;/span&gt; Bestandteil der besten Erklärung des in @&lt;span class=&quot;hljs-statement-title&quot;&gt;[Ideengeschichtlicher
     Befund]&lt;/span&gt; beschriebenen Sachverhalts ist die Annahme, dass
@@ -4573,9 +4573,9 @@ Schluss auf die beste Erklärung
 	
 	<entry>
 		<title>Dialektische Struktur, in der empirische (religionshistorische) Belege aus der zu stützenden Hypothese &#39;Keine Bedeutung ohne Diskussion&#39; gefolgert werden</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-20/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-20/"/>
 		<updated>2020-03-20T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-20/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-20/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Keine Bedeutung ohne Diskussion]:&lt;/span&gt; Meinungen haben nur dann
 Bedeutung, regen Ideen an und sind lebendig, wenn sie frei und
 uneingeschränkt diskutiert werden.
@@ -4720,9 +4720,9 @@ uneingeschränkt diskutiert werden.
 	
 	<entry>
 		<title>Rivalisierende Alternativhypothesen zu &#39;Keine Bedeutung ohne Diskussion&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-21/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-21/"/>
 		<updated>2020-03-21T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-21/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-21/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Christliche Ethik übermenschlich]:&lt;/span&gt; Gemäß der christlichen Ethik zu
 handeln ist eine motivationale Überforderung und widerspricht den
  Gesetzen der menschlichen Psyche.
@@ -4743,9 +4743,9 @@ zum gesellschaftlichen &amp;#x27;Mainstream&amp;#x27; werden kann.&lt;/code&gt;&
 	
 	<entry>
 		<title>Dialektische Struktur mit Mills Hypothese &#39;Keine Bedeutung ohne Diskussion&#39;, rivalisierenden Alternativhypothesen und empirischen Belegen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-22/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-22/"/>
 		<updated>2020-03-22T01:00:00+01:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-22/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_02-22/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-meta&quot;&gt;===
 dot: 
     graphVizSettings: 
@@ -4931,9 +4931,9 @@ dot:
 	
 	<entry>
 		<title>Grobgliederung der zu rekonstruierenden Urteilsbegründung des BVerfG</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-01/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-01/"/>
 		<updated>2020-04-01T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-01/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-01/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// A. Hintergrund und Verlauf des bisherigen Rechtsstreits [¶¶1-18]&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;// &lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;// B. Entscheidungsbegründung im engeren Sinn [¶¶19-75]&lt;/span&gt;
@@ -4959,9 +4959,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Zentrale Entscheidungsbegründung&#39;, erste Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-02/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-02/"/>
 		<updated>2020-04-02T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-02/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-02/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Ein Urteil eines Zivilrichters, das auf Grund &amp;quot;allgemeiner
@@ -4993,9 +4993,9 @@ dot:
 	
 	<entry>
 		<title>&#39;Zentrale Entscheidungsbegründung&#39; mit Teilargumenten, verbesserte und deduktiv gültige Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-03/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-03/"/>
 		<updated>2020-04-03T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-03/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-03/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Ein Urteil eines Zivilrichters, das auf Grund &amp;quot;allgemeiner
@@ -5058,9 +5058,9 @@ dot:
 	
 	<entry>
 		<title>Feingliederung des zu rekonstruierenden Abschnitts B.II</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-04/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-04/"/>
 		<updated>2020-04-04T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-04/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-04/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// B.II.1. Drittwirkung der Grundrechte: Beeinflussung &lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//         privatrechtlicher Vorschriften durch die Grundrechte&lt;/span&gt;
 &lt;span class=&quot;hljs-comment&quot;&gt;//         [¶¶21-29]&lt;/span&gt;
@@ -5084,9 +5084,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Anwendung GS3 auf Meinungsfreiheit&#39; als Stützung von &#39;Zentrale Entscheidungsbegründung&#39;, erste Skizze</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-05/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-05/"/>
 		<updated>2020-04-05T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-05/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-05/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Anwendung GS3 auf Meinungsfreiheit&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Der Zivilrichter verletzt durch sein Urteil Grundrechte, wenn
@@ -5134,9 +5134,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Anwendung GS3 auf Meinungsfreiheit&#39;, implizite Prämisse</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-06/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-06/"/>
 		<updated>2020-04-06T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-06/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-06/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Anwendung GS3 auf Meinungsfreiheit&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Der Zivilrichter verletzt durch sein Urteil Grundrechte, wenn
@@ -5191,9 +5191,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Anwendung GS3 auf Meinungsfreiheit&#39;, verbesserte Rekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-07/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-07/"/>
 		<updated>2020-04-07T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-07/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-07/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Anwendung GS3 auf Meinungsfreiheit&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Für alle Urteile, jedes Grundrecht und alle Normen des
@@ -5257,9 +5257,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Sinn der Bindung der Rechtssprechung an Grundrechte&#39;, erste Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-08/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-08/"/>
 		<updated>2020-04-08T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-08/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-08/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Sinn der Bindung der Rechtsprechung an Grundrechte&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die Grundrechte binden Gesetzgebung, vollziehende Gewalt und
@@ -5309,9 +5309,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Sinn der Bindung der Rechtssprechung an Grundrechte&#39;, verbesserte Rekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-09/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-09/"/>
 		<updated>2020-04-09T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-09/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-09/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Sinn der Bindung der Rechtsprechung an Grundrechte (neu)&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die Grundrechte binden kraft Verfassungsgebots (Art. 1, Abs. 3
@@ -5397,9 +5397,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Zentrale Entscheidungsbegründung&#39;, im Lichte des stützenden Arguments &#39;Sinn der Bindung der Rechtssprechung an Grundrechte&#39; überarbeitete und verbesserte Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-10/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-10/"/>
 		<updated>2020-04-10T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-10/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-10/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung (neu)&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Für alle Urteile, jedes Grundrecht und alle Vorschriften des
@@ -5503,9 +5503,9 @@ dot:
 	
 	<entry>
 		<title>Dialektische Struktur der bisherigen Alternativrekonstruktionen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-11/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-11/"/>
 		<updated>2020-04-11T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-11/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-11/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-section&quot;&gt;# Reko 1&lt;/span&gt;
 
 &lt;span class=&quot;hljs-statement-title&quot;&gt;[Aufhebung und Zurückweisung]&lt;/span&gt;
@@ -5525,15 +5525,15 @@ dot:
 &lt;svg width=&quot;480pt&quot; height=&quot;317pt&quot; viewBox=&quot;0.00 0.00 480.00 316.80&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
 &lt;g id=&quot;graph0&quot; class=&quot;graph&quot; transform=&quot;scale(1 1) rotate(0) translate(4 312.8)&quot;&gt;
 &lt;title&gt;Argument Map&lt;/title&gt;
-&lt;g id=&quot;clust1&quot; class=&quot;cluster&quot;&gt;
-&lt;title&gt;cluster_1&lt;/title&gt;
-&lt;polygon fill=&quot;#dadada&quot; stroke=&quot;#dadada&quot; points=&quot;8,-8 8,-300.8 228,-300.8 228,-8 8,-8&quot;&gt;&lt;/polygon&gt;
-&lt;text text-anchor=&quot;start&quot; x=&quot;99&quot; y=&quot;-286&quot; font-family=&quot;arial&quot; font-size=&quot;12.00&quot; fill=&quot;#000000&quot;&gt;Reko 1&lt;/text&gt;
-&lt;/g&gt;
 &lt;g id=&quot;clust2&quot; class=&quot;cluster&quot;&gt;
 &lt;title&gt;cluster_2&lt;/title&gt;
 &lt;polygon fill=&quot;#dadada&quot; stroke=&quot;#dadada&quot; points=&quot;236,-8 236,-226.4 464,-226.4 464,-8 236,-8&quot;&gt;&lt;/polygon&gt;
 &lt;text text-anchor=&quot;start&quot; x=&quot;331&quot; y=&quot;-211.6&quot; font-family=&quot;arial&quot; font-size=&quot;12.00&quot; fill=&quot;#000000&quot;&gt;Reko 2&lt;/text&gt;
+&lt;/g&gt;
+&lt;g id=&quot;clust1&quot; class=&quot;cluster&quot;&gt;
+&lt;title&gt;cluster_1&lt;/title&gt;
+&lt;polygon fill=&quot;#dadada&quot; stroke=&quot;#dadada&quot; points=&quot;8,-8 8,-300.8 228,-300.8 228,-8 8,-8&quot;&gt;&lt;/polygon&gt;
+&lt;text text-anchor=&quot;start&quot; x=&quot;99&quot; y=&quot;-286&quot; font-family=&quot;arial&quot; font-size=&quot;12.00&quot; fill=&quot;#000000&quot;&gt;Reko 1&lt;/text&gt;
 &lt;/g&gt;
 &lt;!-- n0 --&gt;
 &lt;g id=&quot;node1&quot; class=&quot;node&quot;&gt;
@@ -5622,9 +5622,9 @@ dot:
 	
 	<entry>
 		<title>Entfaltung der Normprämisse (6) in &#39;Sinn der Bindung der Rechtssprechung an Grundrechte&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-12/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-12/"/>
 		<updated>2020-04-12T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-12/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-12/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Sinn der Bindung der Rechtsprechung an Grundrechte&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(6)&lt;/span&gt; Wenn die Rechtsprechung kraft Verfassungsgebots das gesamte
@@ -5656,9 +5656,9 @@ dot:
 	
 	<entry>
 		<title>Modifizierte Prämisse in dem Argument &#39;Zentrale Entscheidungsbegründung&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-13/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-13/"/>
 		<updated>2020-04-13T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-13/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-13/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Für alle Urteile, jedes Grundrecht und alle Vorschriften des
@@ -5727,9 +5727,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Zentrale Entscheidungsbegründung&#39;, aufgrund der Norm-Entfaltung überarbeitete und verbesserte Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-14/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-14/"/>
 		<updated>2020-04-14T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-14/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-14/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Für alle Urteile, jedes Grundrecht und alle Vorschriften des
@@ -5821,9 +5821,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Verwandtschaft bürgerliches und öffentliches Recht&#39; als Stützung von &#39;Zentrale Entscheidungsbegründung&#39;, Detailrekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-15/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-15/"/>
 		<updated>2020-04-15T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-15/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-15/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Verwandtschaft bürgerliches und öffentliches Recht&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &amp;quot;Allgemeine Gesetze&amp;quot; (nach Art. 5 Abs. 2 GG) bürgerlich-
@@ -5879,9 +5879,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Zentrale Entscheidungsbegründung&#39;, weitere Entfaltung und Modifikation mit Blick auf Generalklauseln</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-16/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-16/"/>
 		<updated>2020-04-16T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-16/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-16/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt;
@@ -5978,9 +5978,9 @@ dot:
 	
 	<entry>
 		<title>&#39;Generalklauseln als Einbruchstellen&#39; als Argument, das die modifizierte &#39;Zentrale Entscheidungsbegründung&#39; stützt</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-17/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-17/"/>
 		<updated>2020-04-17T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-17/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-17/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Generalklauseln als Einbruchstellen&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &amp;quot;Allgemeine Gesetze&amp;quot; (nach Art. 5 Abs. 2 GG) bürgerlich-
@@ -6031,9 +6031,9 @@ dot:
 	
 	<entry>
 		<title>Begründungsverbund mit &#39;Besonders starke Grundrechte-Einwirkung&#39;, in dem &#39;Verwandtschaft bürgerliches und öffentliches Recht&#39; und &#39;Generalklauseln als Einbruchstellen&#39; verschmelzen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-18/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-18/"/>
 		<updated>2020-04-18T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-18/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-18/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Verwandtschaft bürgerliches und öffentliches Recht&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt;
@@ -6145,9 +6145,9 @@ dot:
 	
 	<entry>
 		<title>Dialektische Struktur der bisher rekonstruierten Urteilsbegründung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-19/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-19/"/>
 		<updated>2020-04-19T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-19/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-19/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Aufhebung und Zurückweisung]&lt;/span&gt;
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;hljs-support&quot;&gt;    &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Sinn der Bindung der Rechtsprechung an Grundrechte&amp;gt;&lt;/span&gt;
@@ -6264,9 +6264,9 @@ dot:
 	
 	<entry>
 		<title>Einwand &#39;Keine Wirkung außerhalb der Schranken&#39; gegen die &#39;Zentrale Entscheidungsbegründung&#39;, erste Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-20/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-20/"/>
 		<updated>2020-04-20T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-20/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-20/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Keine Wirkung außerhalb der Schranken&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die Verfassung selbst hat durch die Verweisung auf die Schranke
@@ -6318,9 +6318,9 @@ dot:
 	
 	<entry>
 		<title>Einwand &#39;Keine Wirkung außerhalb der Schranken&#39; gegen die &#39;Zentrale Entscheidungsbegründung&#39;, verbesserte Rekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-21/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-21/"/>
 		<updated>2020-04-21T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-21/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-21/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Keine Wirkung außerhalb der Schranken&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die Verfassung selbst verweist in Artikel 5 Absatz 2 auf die
@@ -6382,9 +6382,9 @@ dot:
 	
 	<entry>
 		<title>Grundgerüst von &#39;Keine folgerichtige Interpretation des Verfassungssystems&#39; als Entkräftung des Einwands &#39;Keine Wirkung außerhalb der Schranken&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-22/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-22/"/>
 		<updated>2020-04-22T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-22/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-22/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Keine folgerichtige Interpretation des Verfassungssystems&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die Meinungsäußerungsfreiheit ist von grundlegender Bedeutung
@@ -6414,9 +6414,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Keine folgerichtige Interpretation des Verfassungssystems&#39;, Detailrekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-23/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-23/"/>
 		<updated>2020-04-23T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-23/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-23/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Keine folgerichtige Interpretation des Verfassungssystems&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Bedeutung Meinungsfreiheit]:&lt;/span&gt; Die Meinungsäußerungsfreiheit
@@ -6505,9 +6505,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Besonders starke Grundrechte-Einwirkung&#39;, Entfaltung und entsprechende Modifikation mit Blick auf Bedeutung der Meinungsfreiheit für den freiheitlich-demokratischen Staat</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-24/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-24/"/>
 		<updated>2020-04-24T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-24/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-24/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Besonders starke Grundrechte-Einwirkung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt; 
@@ -6596,9 +6596,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Besonders starke Grundrechte-Einwirkung&#39;, weitere Entfaltung und entsprechende Modifikation mit Blick auf Freiheit der Äußerung von Werturteilen</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-25/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-25/"/>
 		<updated>2020-04-25T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-25/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-25/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Besonders starke Grundrechte-Einwirkung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt; 
@@ -6705,9 +6705,9 @@ dot:
 	
 	<entry>
 		<title>Argument &#39;Zentrale Entscheidungsbegründung&#39;, weitere Modifikation aufgrund von Änderungen in &#39;Besonders starke Grundrechte-Einwirkung&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-26/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-26/"/>
 		<updated>2020-04-26T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-26/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-26/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-tag&quot;&gt;...&lt;/span&gt;
@@ -6773,9 +6773,9 @@ dot:
 	
 	<entry>
 		<title>Einwand &#39;Intendierte Wirkung nicht durch Grundrecht geschützt&#39; gegen die &#39;Zentrale Entscheidungsbegründung&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-27/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-27/"/>
 		<updated>2020-04-27T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-27/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-27/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Intendierte Wirkung nicht durch Grundrecht geschützt&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Enge Auslegung Meinungsfreiheit]:&lt;/span&gt; Das Grundrecht auf
@@ -6835,9 +6835,9 @@ dot:
 	
 	<entry>
 		<title>&#39;Schutz der kollektiven Meinungsbildung&#39; als Entkräftung des Einwands &#39;Intendierte Wirkung nicht durch Grundrecht geschützt&#39;, erste Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-28/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-28/"/>
 		<updated>2020-04-28T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-28/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-28/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz der kollektiven Meinungsbildung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Der Sinn einer Meinungsäußerung ist es gerade, &amp;quot;geistige
@@ -6887,9 +6887,9 @@ dot:
 	
 	<entry>
 		<title>&#39;Schutz der kollektiven Meinungsbildung&#39; als Entkräftung des Einwands &#39;Intendierte Wirkung nicht durch Grundrecht geschützt&#39;, verbesserte Rekonstruktion</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-29/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-29/"/>
 		<updated>2020-04-29T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-29/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-29/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Schutz der kollektiven Meinungsbildung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Der Sinn einer Meinungsäußerung ist es gerade, &amp;quot;geistige
@@ -6944,9 +6944,9 @@ Schluss auf die beste Interpretation
 	
 	<entry>
 		<title>&#39;Wirkung wesentlich für Werturteile&#39; als zweite Entkräftung des Einwands &#39;Intendierte Wirkung nicht durch Grundrecht geschützt&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-30/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-30/"/>
 		<updated>2020-04-30T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-30/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-30/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Wirkung wesentlich für Werturteile&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die Äußerung von Werturteilen ist vom Grundrecht des Art. 5
@@ -6996,9 +6996,9 @@ Schluss auf die beste Interpretation
 	
 	<entry>
 		<title>&#39;Bedeutung der allgemeinen Gesetze&#39; als dritte Entkräftung des Einwands &#39;Intendierte Wirkung nicht durch Grundrecht geschützt&#39;</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-31/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-31/"/>
 		<updated>2020-05-01T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-31/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-31/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Bedeutung der allgemeinen Gesetze&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Die allgemeinen Gesetze richten sich nicht gegen &lt;span class=&quot;hljs-emphasis&quot;&gt;*die
@@ -7055,9 +7055,9 @@ Schluss auf die beste Interpretation
 	
 	<entry>
 		<title>Dialektische Struktur der Verteidigung der Annahme allgemeiner Gesetze bürgerlich-rechtlicher Art</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-32/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-32/"/>
 		<updated>2020-05-02T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-32/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-32/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Aufhebung und Zurückweisung]&lt;/span&gt;
 &lt;span class=&quot;hljs-support&quot;&gt;  &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;hljs-support&quot;&gt;    &amp;lt;+&lt;/span&gt; &lt;span class=&quot;hljs-statement-title&quot;&gt;[Allgemeine Gesetze im LGUrteil]&lt;/span&gt;
@@ -7294,9 +7294,9 @@ Schluss auf die beste Interpretation
 	
 	<entry>
 		<title>Makro-Struktur der Begründung der BVerfG-Entscheidung als dialektische Struktur</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-33/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-33/"/>
 		<updated>2020-05-03T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-33/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-33/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-statement-title&quot;&gt;[Aufhebung und Zurückweisung]&lt;/span&gt;
   &lt;span class=&quot;hljs-comment&quot;&gt;/* Entscheidungsbegründung aus B.II.1.,   */&lt;/span&gt;
   &lt;span class=&quot;hljs-comment&quot;&gt;/* teils im weiteren Verlauf entfaltet    */&lt;/span&gt;
@@ -7633,9 +7633,9 @@ Schluss auf die beste Interpretation
 	
 	<entry>
 		<title>Argument &#39;Zentrale Entscheidungsbegründung&#39;, finale Fassung</title>
-		<link href="https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-34/"/>
+		<link href="http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-34/"/>
 		<updated>2020-05-04T02:00:00+02:00</updated>
-		<id>https://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-34/</id>
+		<id>http://argumentationsanalyse.online/argumentationsanalyse.online/posts/tafel_03-34/</id>
 		<content type="html">&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css&quot;&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js&quot;&gt;&lt;/script&gt;&lt;figure role=&quot;group&quot; class=&quot;argdown-figure&quot;&gt;&lt;argdown-map initial-view=&quot;source&quot;&gt;&lt;div slot=&quot;source&quot; class=&quot;&quot;&gt;&lt;pre class=&quot;language-argdown&quot;&gt;&lt;code class=&quot;language-argdown&quot;&gt;&lt;span class=&quot;hljs-argument-title&quot;&gt;&amp;lt;Zentrale Entscheidungsbegründung&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;hljs-argument-statement-nr&quot;&gt;(1)&lt;/span&gt; Für alle Urteile, jedes Grundrecht und alle Vorschriften des
