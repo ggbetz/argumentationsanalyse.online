@@ -24,7 +24,7 @@ In dem Buch "'_Argumentationsanalyse_' lernen Sie, wie man undurchsichtige Argum
 ::: info
 
 * [Verweise auf die in den Fallstudien rekonstruierten Texte](#texte%2C-die-in-den-fallstudien-rekonstruiert-werden)
-* [Grafische Darstellungen der rekonstruierten Argumente](#grafische-darstellungen-der-rekonstruierten-argumente-(%22tafeln%22))
+* [Grafische Darstellungen der rekonstruierten Argumente](#grafische-darstellungen-der-rekonstruierten-argumente)
 * [Weiterführende Lektürehinweise ("Handapparat Argumentationsanalyse")](#weiterf%C3%BChrende-lekt%C3%BCrehinweise-(%22handapparat-argumentationsanalyse%22))
 * [Notizen zur Argdown-Syntax](#notizen-und-verweise-zur-argdown-syntax)
 * [Hinweise zur Verwendung von Argumentationsanalysen](#wofür-lässt-sich-eine-analyse-von-argumenten-verwenden%3F)
