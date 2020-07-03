@@ -4,7 +4,7 @@ title: Argumentationsanalyse nutzen, um einen Text zu schreiben
 templateClass: tmpl-post
 ---
 
-# Argumentationsanalyse nutzen, um einen Text zu schreiben
+# Wie das Analysieren von Argumenten beim Schreiben hilft: 8 Maximen für das Verfassen von gut strukturierten Texten
 
 Nehmen wir an: Sie haben ein Argument oder eine komplexe Argumentation analysiert und stehen nun vor der Aufgabe, einen Text (einen Essay, einen Bericht, eine Hausarbeit, eine Stellungnahme) auf Grundlage Ihrer Rekonstruktion zu schreiben. Wie macht man das?
 
