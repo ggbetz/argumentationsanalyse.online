@@ -1,5 +1,26 @@
-# eleventy-base-blog
+# argumentationsanalyse.online
 
+Online teaser and supplementary material for the critical thinking book "Argumentationsanalyse" by G. Betz (in German).
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Run Eleventy
+
+```
+npx eleventy --serve
+```
+
+### Deploy to Github Pages
+
+```
+npm run deploy
+```
+
+<!--
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
 [![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
@@ -75,3 +96,4 @@ DEBUG=* npx eleventy
   * `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
   * `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
 * `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
+-->

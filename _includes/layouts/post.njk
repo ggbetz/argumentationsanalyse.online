@@ -17,9 +17,9 @@ templateClass: tmpl-post
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
 
-<p>{% if previousPost %}Vorherige Tafel {{ previousPost.data.number }}: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% endif %}</p>
+<p>{% if previousPost %}Vorherige Tafel {{ previousPost.data.number }}: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>{% endif %}</p>
 
-<p>{% if nextPost %}Nächste Tafel {{ nextPost.data.number }}: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{% endif %}</p>
+<p>{% if nextPost %}Nächste Tafel {{ nextPost.data.number }}: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>{% endif %}</p>
 
 
 <p><a href="{{ '/' | url }}">← Home</a></p>
