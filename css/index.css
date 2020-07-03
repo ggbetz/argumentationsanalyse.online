@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root {
   --red: #C5004A;
   --darkred: #7F0036;
@@ -7,6 +8,8 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --darkblue: #00ADEE;
+  --lightblue: #B1DEF7;
 }
 * {
   box-sizing: border-box;
@@ -15,9 +18,30 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: 'Roboto', system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
+}
+blockquote{
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+blockquote p{
+  font-style: italic;
+}
+blockquote p:last-child{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+h1,h2,h3{
+  font-family: 'Roboto', system-ui, sans-serif;
+  color: var(--darkblue);
+  font-weight: bold;
+}
+h2{
+  margin-top: 3em;
+  position: relative;
 }
 p:last-child {
   margin-bottom: 0;
@@ -37,20 +61,25 @@ a[href] {
 a[href]:visited {
   color: var(--navy);
 }
+li {
+  line-height: 1.45;
+}
 main {
   padding: 1rem;
+  margin: 0 auto;
+  max-width: 42rem;
 }
 main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  /* border-bottom: 1px dashed var(--lightgray); */
+  display:flex;
+  flex-wrap: wrap;
+  position:relative;
+  background-color: var(--lightblue);
 }
-header:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 table {
   margin: 1em 0;
 }
@@ -116,10 +145,22 @@ pre {
 
 /* Header */
 .home {
-  padding: 0 1rem;
-  float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
+  width: auto;
+  display:flex;
+  align-items:center;
+
+  padding: 0rem 1rem; /* 16px /16 */
+  margin: 0;
+  font-size: 1.4em; /* 16px /16 */
+  font-weight:bold;
+  background-color: var(--darkblue);
+  color:#fff;
+}
+.home a{
+  color: #fff;
+}
+.home a[href]{
+  color: #fff;
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -129,7 +170,8 @@ pre {
 .nav {
   padding: 0;
   list-style: none;
-  float: left;
+  flex: 1;
+  flex-direction: row;
   margin-left: 1em;
 }
 .nav-item {
@@ -143,25 +185,52 @@ pre {
   font-weight: 700;
   text-decoration: underline;
 }
+.cover-img{
+  display:block;
+  position:relative;
+}
+.cover-img img{
+  width: auto;
+  display: block;
+  max-height: 400px;
+  margin: 0 auto;
+}
 
 /* Posts list */
 .postlist {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 .postlist-item {
   counter-increment: start-from -1;
 }
+.postlist-item{
+  display:flex;
+  margin: 1rem 0; 
+  padding: 0;
+}
+.postlist-item .title{
+  flex: 1;
+}
+.postlist-item .postlist-number{
+  width: 5rem;
+  display:block;
+  padding: 0.5rem 0;
+  color: var(--darkblue);
+  font-weight: bold;
+}
 .postlist-item:before {
   display: inline-block;
   pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
+  content: "" /* counter(start-from, decimal-leading-zero) ". "*/;
   line-height: 100%;
   text-align: right;
 }
+.postlist-number,
 .postlist-date,
 .postlist-item:before {
-  font-size: 0.8125em; /* 13px /16 */
+  font-size: 0.9125em; /* 13px /16 */
   color: var(--darkgray);
 }
 .postlist-date {
@@ -169,14 +238,15 @@ pre {
 }
 .postlist-link {
   display: inline-block;
-  padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  padding: 0.25em 0; /* 4px 3px /16 */
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
 }
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
-  font-weight: 700;
+  font-weight: normal;
+  text-decoration:none;
 }
 
 
@@ -188,20 +258,35 @@ pre {
   font-size: 0.625em; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
+  background-color: var(--darkblue);
   color: var(--white);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
+}
+.tag:first-child{
+  margin-left: 0;
 }
 a[href].tag,
 a[href].tag:visited {
   color: #fff;
 }
 
+/* Maxime */
+.maxime {
+  background-color: var(--lightblue);
+  padding: 2.5em 2em;
+}
+
+/* Infobox */
+.info {
+  background-color: rgb(201, 225, 245);
+  padding: 2.5em 2em;
+}
+
 /* Warning */
 .warning {
   background-color: #ffc;
-  padding: 1em 0.625em; /* 16px 10px /16 */
+  padding: 2.5em 2em;
 }
 .warning ol:only-child {
   margin: 0;
@@ -213,6 +298,9 @@ a[href].tag:visited {
   text-decoration: none;
   font-style: normal;
   margin-left: .1em;
+  position: absolute;
+  left: -2rem;
+  top: 0;
 }
 a[href].direct-link,
 a[href].direct-link:visited {
