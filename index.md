@@ -54,7 +54,7 @@ Das Lehrbuch zitiert aus der von Michael Schefcyk und Christoph Schmidt-Petri he
 
 Eine komplexe Argumentation, in der sich verschiedene Argumente stützend und angreifend aufeinander beziehen, lässt sich übersichtlich als sogenannte *Argumentkarte* darstellen. Ergänzend zum Buch finden Sie auf dieser Seite nicht nur alle **"Tafeln"** mit Argumentrekonstruktionen, sondern auch die entsprechenden grafischen Darstellungen (s. <a href="{{ '/posts/' | url }}">Verzeichnis der Rekonstruktionstafeln</a>). 
 
-So zeigt etwa die folgende Argumentkarte, die auf den Tafeln <a href="{{ 'posts/tafel_01-11/' | url }}">1.11</a>, <a href="{{ 'posts/tafel_01-13/' | url }}">1.13</a> sowie <a href="{{ 'posts/tafel_01-16/' | url }}">1.16</a> beruht, wie sich die Zusammenspiel der Pro- / Kontra-Gründe aus dem Debater's Handbook nach einer vorläufigen & informellen Analyse darstellt:
+So zeigt etwa die folgende Argumentkarte, die auf den Tafeln <a href="{{ 'posts/tafel_01-11/' | url }}">1.11</a>, <a href="{{ 'posts/tafel_01-13/' | url }}">1.13</a> sowie <a href="{{ 'posts/tafel_01-16/' | url }}">1.16</a> beruht, wie sich das Zusammenspiel der Pro- / Kontra-Gründe aus dem Debater's Handbook nach einer vorläufigen & informellen Analyse darstellt:
 
 ```argdown-map
 [Zensurgebot]: Es gibt Fälle, in denen Gesetzgebung, die bestimmte
