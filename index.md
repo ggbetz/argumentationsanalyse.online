@@ -13,11 +13,11 @@ eleventyNavigation:
 > 
 > (J.S. Mill, Über die Freiheit)
 
-**Argumentationsanalyse.online ist die Begleitseite zum Buch '_Argumentationsanalyse. Eine Einführung_' von Gregor Betz.**  [[Verlagsseite]](https://www.springer.com/de/book/9783476051233) [[bei_genialokal](https://www.genialokal.de/Produkt/Gregor-Betz/Argumentationsanalyse_lid_43327761.html)]
+**Argumentationsanalyse.online ist die Begleitseite zum Buch _Argumentationsanalyse. Eine Einführung_ von Gregor Betz.**  [[Verlagsseite]](https://www.springer.com/de/book/9783476051233) [[bei_genialokal](https://www.genialokal.de/Produkt/Gregor-Betz/Argumentationsanalyse_lid_43327761.html)]
 
 Argumente zu verstehen ist kein Kinderspiel. Einige sind schlicht verworren. Andere sind lückenhaft. Wiederum andere sind von trügerischer Klarheit — und erst bei einem zweiten Blick erahnt man, dass sie ganz anders funktionieren, als gedacht.
 
-In dem Buch "'_Argumentationsanalyse_' lernen Sie, wie man undurchsichtige Argumente verständlich macht. Drei ausführliche und praxisnahe Fallstudien (Analyse einer Pro-Kontra-Liste, Analyse eines philosophischen Klassikers, Analyse einer juristischen Urteilsbegründung) setzen Methoden der Argumentrekonstruktion gewinnbringend ein.
+In dem Buch _Argumentationsanalyse_ lernen Sie, wie man undurchsichtige Argumente verständlich macht. Drei ausführliche und praxisnahe Fallstudien (Analyse einer Pro-Kontra-Liste, Analyse eines philosophischen Klassikers, Analyse einer juristischen Urteilsbegründung) setzen Methoden der Argumentrekonstruktion gewinnbringend ein.
 
 **argumentationsanalyse.online** soll Sie dabei unterstützen, aktiv mit dem Buch zu arbeiten und sich selbst an der Rekonstruktion von Argumenten zu versuchen. Hier finden Sie:
 
@@ -159,7 +159,7 @@ Erste Anlaufstelle im Web für alldiejenigen, die Fragen zum Argumentieren haben
 :::
 
 
-Empfehlenswerte Einführungen in die argumentative Textanalyse und die logische Rekonstruktion von Argumenten, die das Lehrbuch "Argumentationsanalyse" trefflich ergänzen: 
+Empfehlenswerte Einführungen in die argumentative Textanalyse und die logische Rekonstruktion von Argumenten, die das Lehrbuch _Argumentationsanalyse_ trefflich ergänzen: 
 
 * **Bowell**, T. & **Kemp**, G. 2014, *Critical Thinking: A Concise Guide*, Routledge, London. [[bei genialokal]](https://www.genialokal.de/Produkt/Tracy-Bowell-Gary-Kemp-Robert-Cowan/Critical-Thinking_lid_41149758.html) 
 * **Brun**, G. & **Hirsch-Hadorn**, G. 2014, *Textanalyse in den Wissenschaften: Inhalte und Argumente analysieren und verstehen*, vdf Hochschulverlag, Zürich. [[bei genialokal]](https://www.genialokal.de/Produkt/Georg-Brun-Gertrude-Hirsch-Hadorn/Textanalyse-in-den-Wissenschaften_lid_34582293.html)
