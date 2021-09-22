@@ -9,6 +9,7 @@ eleventyNavigation:
 <a class="cover-img" href="https://www.springer.com/de/book/9783476051233"><img src="{{ '/img/argumentationsanalyse-cover.jpg' | url }}"></a>
 </p>
 
+
 > Wer nur seine eigene Seite der Sache kennt, weiß wenig über diese. 
 > 
 > (J.S. Mill, Über die Freiheit)
