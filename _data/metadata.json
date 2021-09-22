@@ -1,0 +1,15 @@
+{
+  "title": "Argumentationsanalyse",
+  "url": "http://argumentationsanalyse.online/",
+  "description": "Argumentationsanalyse.online ist die Begleitseite zum Buch '_Argumentationsanalyse. Eine Einführung_' von Gregor Betz.",
+  "feed": {
+    "subtitle": "Argumentationsanalyse.online ist die Begleitseite zum Buch '_Argumentationsanalyse. Eine Einführung_' von Gregor Betz.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "http://argumentationsanalyse.online/"
+  },
+  "author": {
+    "name": "Gregor Betz",
+    "email": "gregor.betz@kit.edu"
+  }
+}
