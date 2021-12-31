@@ -2,6 +2,8 @@
 
 Online teaser and supplementary material for the critical thinking book "Argumentationsanalyse" by G. Betz (in German).
 
+Visit website at: https://argumentationsanalyse.online/
+
 ### Install dependencies
 
 ```
